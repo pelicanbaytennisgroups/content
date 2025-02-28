@@ -1,6 +1,5 @@
 ---
 title: "Pelican Bay Tennis Groups"
-draft: false
 ---
 
 ## About
