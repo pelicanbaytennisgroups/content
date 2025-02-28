@@ -7,27 +7,10 @@ on:
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  update_submodules:
+  deploy-site:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout www repository
-        uses: actions/checkout@v3
-        with:
-          repository: pelicanbaytennisgroups/www
-          token: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
-          
-      - name: Update Git Submodules
+      - env:
+          GH_TOKEN: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
         run: |
-          git submodule update --init --recursive
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
-          
-      - name: Commit and Push if changes exist
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add .
-            git commit -m "Automated submodule update"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          gh workflow run "Deploy Hugo site to Pages" -R pelicanbaytennisgroups/www
