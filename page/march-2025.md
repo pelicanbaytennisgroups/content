@@ -6,4 +6,4 @@ This folder (`page`) is where you can create a new post. Each `.md` document cor
 
 I'll be adding the ability for you to embed the PDFs themselves.
 
-{{< embed-pdf url="./march-2025-matchpoint-pairings.pdf" >}}
+{{< embed-pdf url="../../files/march-2025-matchpoint-pairings.pdf" >}}
