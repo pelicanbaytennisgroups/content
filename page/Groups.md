@@ -4,7 +4,11 @@
 
 ## Finding a tennis group at Pelican Bay
 
-> There are many social groups organized for weekly play year-round at Pelican Bay<br>
+> There are many social groups organized for weekly play<br>
+Groups may schedule matches for the all or part of the winter season<br>
+Some groups schedule matches year-round<br>
+Groups are privately organized by Pelican Bay residents and are not a service of the Pelican Bay Foundation<br>
+Many players belong to two or more groups depending on when the want to play<br>
 
 Groups may ...
 
@@ -12,13 +16,13 @@ Groups may ...
 2. Limit total membership
 3. Only schedule matches on specific days and at specific times
 
-> Review the group descriptions below and use the link contact the group coordinator for more information on how to join
+> Review the group descriptions below and use the links to contact the group coordinator<br>
 
 # Groups Descriptions
 
-**MATCHPOINT**
+## MATCHPOINT
 
-> **Men, 3.0 and up**<br>
+> **Men, 3.0, 3.5, 4.0**<br>
 > Sub in first month to verify skill level or recommendation of 2 members
 * Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, **year-round**
 * Players of similar skill level are paired together for matches
@@ -28,7 +32,7 @@ Groups may ...
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
-**THE PLAYERS**
+## THE PLAYERS
 
 > **Men, 3.5 and up,**<br>
 Play required with members to verify skill level
@@ -38,7 +42,7 @@ Play required with members to verify skill level
 * Approximately  25 to 35 active players during season<br>
 * Group Objective: **More Competitive, Social**
 
-**RAFFO SUNDAY**
+## RAFFO SUNDAY
 
 > **Men, 3.5 + and up,**<br>
 Contact group coordinator to apply
@@ -46,7 +50,7 @@ Contact group coordinator to apply
 * Approximately  25 to 35 active players during season<br>
 * Group Objective: **More Competitive, Social**
 
-**STUART MWF**
+## STUART MWF
 
 > **Men, better 3.5 and 4.0**<br>
 Contact group coordinator to apply
