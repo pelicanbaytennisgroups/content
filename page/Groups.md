@@ -44,7 +44,7 @@ Play required with members to verify skill level
 
 ## RAFFO SUNDAY
 
-> **Men, 3.5 + and up,**<br>
+> **Men, 4.0,**<br>
 Contact group coordinator to apply
 * Sunday afternoon, **January, February March only**
 * Approximately  25 to 35 active players during season
@@ -52,7 +52,7 @@ Contact group coordinator to apply
 
 ## STUART MWF
 
-> **Men, better 3.5 and 4.0**<br>
+> **Men, 4.0**<br>
 Contact group coordinator to apply
 *Sunday afternoon, **what is the season**
 * Approximately  25 to 35 active players during season
