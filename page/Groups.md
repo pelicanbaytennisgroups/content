@@ -36,26 +36,26 @@ Groups may ...
 
 > **Men, 3.5 and up,**<br>
 Play required with members to verify skill level
-* Tuesday, Thursday, Saturday, **November to May**<br>
-* Players of similar level skill are paired together for matches<br>
-* Request courts for NORTH at 9:30 am<br>
-* Approximately  25 to 35 active players during season<br>
+* Tuesday, Thursday, Saturday, **November to May**
+* Players of similar level skill are paired together for matches
+* Request courts for NORTH at 9:30 am
+* Approximately  25 to 35 active players during season
 * Group Objective: **More Competitive, Social**
 
 ## RAFFO SUNDAY
 
 > **Men, 3.5 + and up,**<br>
 Contact group coordinator to apply
-* Sunday afternoon, **January, February March only**<br>
-* Approximately  25 to 35 active players during season<br>
+* Sunday afternoon, **January, February March only**
+* Approximately  25 to 35 active players during season
 * Group Objective: **More Competitive, Social**
 
 ## STUART MWF
 
 > **Men, better 3.5 and 4.0**<br>
 Contact group coordinator to apply
-*Sunday afternoon, **what is the season**<br>
-* Approximately  25 to 35 active players during season<br>
+*Sunday afternoon, **what is the season**
+* Approximately  25 to 35 active players during season
 * Group Objective: **Very Competitive**
 
 
