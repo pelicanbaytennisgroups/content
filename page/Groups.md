@@ -8,7 +8,7 @@
 Groups may schedule matches for the all or part of the winter season<br>
 Some groups schedule matches year-round<br>
 Groups are privately organized by Pelican Bay residents and are not a service of the Pelican Bay Foundation<br>
-Many players belong to two or more groups depending on when the want to play<br>
+Many players belong to two or more groups depending on their skill and day/times they want to play<br>
 
 Groups may ...
 
@@ -58,7 +58,12 @@ Contact group coordinator to apply
 * Approximately  25 to 35 active players during season<br>
 * Group Objective: **Very Competitive**
 
-# [March - 2025](/page/march-2025/)
+
+
+
+# IGNORE BELOW -- CLEANUP LATER
+
+ [March - 2025](/page/march-2025/)
 
 <time>Jan 1, 0001</time> Here are the pairings for March, 2025!<br>
 
