@@ -18,9 +18,8 @@ Groups may ...
 
 **MATCHPOINT**
 
-> **Men, 3.0 and up**
-
-* Sub in first month to verify skill level
+> **Men, 3.0 and up**<br>
+> Sub in first month to verify skill level or recommendation of 2 members
 * Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, **year-round**
 * Players of similar skill level are paired together for matches
 * Sub in first month to verify skill level
@@ -32,42 +31,28 @@ Groups may ...
 **THE PLAYERS**
 
 > **Men, 3.5 and up,**<br>
-
-playing with members to verify skill level
-
->> Tuesday, Thursday, Saturday, **November to May**<br>
-
-Players of similar level skill are paired together for matches<br>
-
-Request courts for NORTH at 9:30 am<br>
-
-Approximately  25 to 35 active players during season<br>
-
-Group Objective: **More Competitive, Social**
+Play required with members to verify skill level
+* Tuesday, Thursday, Saturday, **November to May**<br>
+* Players of similar level skill are paired together for matches<br>
+* Request courts for NORTH at 9:30 am<br>
+* Approximately  25 to 35 active players during season<br>
+* Group Objective: **More Competitive, Social**
 
 **RAFFO SUNDAY**
 
 > **Men, 3.5 + and up,**<br>
-
-contact group coordinator to apply
-
->> Sunday afternoon, **January, February March only**<br>
-
-Approximately  25 to 35 active players during season<br>
-
-Group Objective: **More Competitive, Social**
+Contact group coordinator to apply
+* Sunday afternoon, **January, February March only**<br>
+* Approximately  25 to 35 active players during season<br>
+* Group Objective: **More Competitive, Social**
 
 **STUART MWF**
 
 > **Men, better 3.5 and 4.0**<br>
-
-contact group coordinator to apply
-
->> Sunday afternoon, **what is the season**<br>
-
-Approximately  25 to 35 active players during season<br>
-
-Group Objective: **Very Competitive**
+Contact group coordinator to apply
+*Sunday afternoon, **what is the season**<br>
+* Approximately  25 to 35 active players during season<br>
+* Group Objective: **Very Competitive**
 
 # [March - 2025](/page/march-2025/)
 
