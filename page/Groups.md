@@ -14,7 +14,7 @@ Groups may ...
 
 1. Require a specific level of skill to insure fun and competitive play
 2. Limit total membership
-3. Only schedule matches on specific days and at specific times
+3. Schedule matches on specific days and at specific times
 
 > Review the group descriptions below and use the links to contact the group coordinator<br>
 
@@ -25,7 +25,7 @@ Groups may ...
 > **Men, 3.0, 3.5, 4.0**<br>
 > Sub in first month to verify skill level or recommendation of 2 members
 * Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, **year-round**
-* Players of similar skill level are paired together for matches
+* Players of similar skill level are paired together for matches.  The large roster provides fun and competitive play at all skill levels
 * Sub in first month to verify skill level
 * Request courts for NORTH at 8:00 am
 * Approximately  50 to 60 active players during season
