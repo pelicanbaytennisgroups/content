@@ -6,44 +6,24 @@ publishDate: "2025-03-02"
 
 ![avatar](/page/content-images/tennis-guy.png)
 
-# Overview of Pelican Bay Tennis Groups
-
-## Finding a tennis group at Pelican Bay
-
-> There are many social groups organized for weekly play<br>
-Groups may schedule matches for the all or part of the winter season<br>
-Some groups schedule matches year-round<br>
-Groups are privately organized by Pelican Bay residents and are not a service of the Pelican Bay Foundation<br>
-Many players belong to two or more groups depending on their skill and day/times they want to play<br>
-
-Groups may ...
-
-1. Require a specific level of skill to insure fun and competitive play
-2. Limit total membership
-3. Schedule matches on specific days and at specific times
-
-> Review the group descriptions below and use the links to contact the group coordinator<br>
-
 # Groups Descriptions
 
-## MATCHPOINT
+## [MATCHPOINT](/page/matchpointinfo/)
 
-> **Men, 3.0, 3.5, 4.0**<br>
-> Sub in first month to verify skill level or recommendation of 2 members
-
-* Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, **year-round**
+> **Men, 3.5 and up **<br>
+* Sub in first month to verify skill level or recommendation of 2 members
+* Plays **Year-Round**
+* Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 * Players of similar skill level are paired together for matches.  The large roster provides fun and competitive play at all skill levels
 * Sub in first month to verify skill level
 * Request courts for NORTH at 8:00 am
-* Approximately  50 to 60 active players during season
+* Approximately  50 to 60 active players during season, 20 to 25 during the summer months
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
 ## THE PLAYERS
-
-> **Men, 3.5 and up,**<br>
-Play required with members to verify skill level
-
+**Men, 3.5 and up,**<br>
+* Play required with members to verify skill level
 * Tuesday, Thursday, Saturday, **November to May**
 * Players of similar level skill are paired together for matches
 * Request courts for NORTH at 9:30 am
@@ -51,7 +31,7 @@ Play required with members to verify skill level
 * Group Objective: **More Competitive, Social**
 
 ## RAFFO SUNDAY
-
+>>click link for full description of the group
 > **Men, 4.0,**<br>
 Contact group coordinator to apply
 
@@ -60,7 +40,7 @@ Contact group coordinator to apply
 * Group Objective: **More Competitive, Social**
 
 ## STUART MWF
-
+click link for full description of the group
 > **Men, 4.0**<br>
 Contact group coordinator to apply
 *Sunday afternoon, **what is the season**
