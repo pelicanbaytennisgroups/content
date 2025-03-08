@@ -18,4 +18,4 @@ I'ts very important to ensure the path starts with `../pdfs/` :
 
 You can do the same with images by placing them into the `page/images` directory.
 
-![avatar](/images/avatar.png)
+![avatar](/content-images/tennis-guy.png)
