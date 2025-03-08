@@ -2,4 +2,6 @@
 
 ## Adding a new page
 
-See [the template](https://github.com/pelicanbaytennisgroups/content/blob/main/page/_template.md)
+See [the template](https://github.com/pelicanbaytennisgroups/content/blob/main/page/_template.md), and download with the following button:
+
+[download button](./internal/download_button.png)
