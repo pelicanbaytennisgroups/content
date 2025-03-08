@@ -1,5 +1,7 @@
 ---
 title: "Pelican Bay Tennis Groups"
+description: "Start here"
+publishDate: "2025-03-02"
 ---
 
 ## About
