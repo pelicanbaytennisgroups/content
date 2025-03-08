@@ -4,7 +4,7 @@ description: "Information on Groups"
 publishDate: "2025-03-02"
 ---
 
-![avatar](/content-images/tennis-guy.png)
+![avatar](/page/content-images/tennis-guy.png)
 
 # Overview of Pelican Bay Tennis Groups
 

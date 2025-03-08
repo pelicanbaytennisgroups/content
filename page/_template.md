@@ -16,6 +16,6 @@ I'ts very important to ensure the path starts with `../pdfs/` :
 
 {{< embed-pdf url="../pdfs/<YOUR MONTH HERE>-<YOUR YEAR HERE>-matchpoint-pairings.pdf" renderPageNum="1" >}}
 
-You can do the same with images by placing them into the `page/images` directory.
+You can do the same with images by placing them into the `/page/content-images` directory.
 
-![avatar](/content-images/tennis-guy.png)
+![avatar](/page/content-imaguges/tennis-guy.png)
