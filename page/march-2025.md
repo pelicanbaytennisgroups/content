@@ -3,7 +3,7 @@ title: "March - 2025"
 description: "Pairings for March 2025"
 date: "2025-04-01"
 ---
-# [Groups](/page/Groups/)
+# [Groups](/page/groups/)
 
 Here are the pairings for March, 2025!
 
