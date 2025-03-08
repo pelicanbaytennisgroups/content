@@ -1,3 +1,8 @@
+---
+title: "Groups"
+description: "Information on Groups"
+---
+
 ![avatar](/images/avatar.png)
 
 # Overview of Pelican Bay Tennis Groups
@@ -24,6 +29,7 @@ Groups may ...
 
 > **Men, 3.0, 3.5, 4.0**<br>
 > Sub in first month to verify skill level or recommendation of 2 members
+
 * Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, **year-round**
 * Players of similar skill level are paired together for matches.  The large roster provides fun and competitive play at all skill levels
 * Sub in first month to verify skill level
@@ -36,6 +42,7 @@ Groups may ...
 
 > **Men, 3.5 and up,**<br>
 Play required with members to verify skill level
+
 * Tuesday, Thursday, Saturday, **November to May**
 * Players of similar level skill are paired together for matches
 * Request courts for NORTH at 9:30 am
@@ -46,6 +53,7 @@ Play required with members to verify skill level
 
 > **Men, 4.0,**<br>
 Contact group coordinator to apply
+
 * Sunday afternoon, **January, February March only**
 * Approximately  25 to 35 active players during season
 * Group Objective: **More Competitive, Social**
@@ -55,11 +63,9 @@ Contact group coordinator to apply
 > **Men, 4.0**<br>
 Contact group coordinator to apply
 *Sunday afternoon, **what is the season**
+
 * Approximately  25 to 35 active players during season
 * Group Objective: **Very Competitive**
-
-
-
 
 # IGNORE BELOW -- CLEANUP LATER
 
