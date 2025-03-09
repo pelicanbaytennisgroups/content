@@ -8,10 +8,10 @@ publishDate: "2025-03-02"
 ## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)<br>
          Mike Bowman
 
-## When do we play,8:00 AM is preferred<br>
+## When do we play -- 8:00 AM at North courts is preferred<br>
 1. Monday to Saturday, year-round<br>
-2. Captains create court request through Chelsea<br> 
-   Specify court preferance as **North/South/Any**,<br>
+2. Captains create court request through Chelsea<br>
+3. Specify court preferance as **North/South/Any**,<br>
    Time preference as Requested: **8:00 AM**,  Earliest **8:00 AM**, Latest **11:00**<br>
 ## How we play matches
 1. Once you sign up, it is your responsibility to get a sub if you cannot play.<br>
