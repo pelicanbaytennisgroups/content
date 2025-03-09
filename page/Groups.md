@@ -5,7 +5,7 @@ publishDate: "2025-03-02"
 ---
 # Groups Descriptions
 
-## [MATCHPOINT](/page/matchpointinfo/)
+## [MATCHPOINT](/page/matchpointinfo.md/)
 
 > **Men, 3.5 and up **<br>
 * Sub in first month to verify skill level or recommendation of 2 members
