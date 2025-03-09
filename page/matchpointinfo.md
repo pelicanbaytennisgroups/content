@@ -7,7 +7,7 @@ publishDate: "2025-03-02"
 # MATCHPOINT GROUP<br>
 ## Why join MATCHPOINT<br>
 
-## [Email the group co-ordinator](m.bowman@yahoo.com)<br>
+## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)<br>
          Mike Bowman
 
 ## When do we play,8:00 AM is preferred<br>
