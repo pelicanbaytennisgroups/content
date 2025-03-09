@@ -3,9 +3,10 @@ title: "Tennis Groups at Pelican Bay"
 description: "Overview"
 publishDate: "2025-03-09"
 ---
-![avatar](/page/content-images/tennis-guy.png)
 ![courts](/page/content-images/tennis-courts.png)
 # Find and join a tennis group at Pelican Bay
+
+[Overview of Groups at Pelican Bay](../groupsummaries.md/)
 
 There are many social groups organized for weekly play<br>
 Groups may schedule matches for the all or part of the winter season<br>
@@ -20,4 +21,3 @@ Groups may ...
 
 > Review the group descriptions to find a group and contact the group coordinator<b
 
-[Overview of Groups at Pelican Bay](../groupsummaries.md/)
