@@ -25,3 +25,4 @@ Groups may ...
 > Review the group descriptions to find a group and contact the group coordinator<b
 
 [Overview of Groups at Pelican Bay](../groups/)
+[Overview of Groups at Pelican Bay](../../groups/)
