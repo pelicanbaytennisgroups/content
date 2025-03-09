@@ -10,7 +10,7 @@ This folder (`page`) is where you can create a new post. Each `.md` document cor
 
 Here's how you can embed a PDF:
 
-[Sign up here for pairings](https://forms.gle/EYYqGhrG5Arbt72h6)
+**[April 2025 Signup](https://forms.gle/EYYqGhrG5Arbt72h6)**
 
 First, place the PDF into the `page/pdfs` directory.
 Then, you can use the format below, replacing the file name to match your pairings.
