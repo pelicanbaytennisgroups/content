@@ -8,4 +8,4 @@ publishDate: "2025-03-07"
 
 **Current Month Pairings Report**
 
-{{< embed-pdf url="/page/pdfs/march-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/march-2025-players-pairings.pdf" renderPageNum="1" >}}
