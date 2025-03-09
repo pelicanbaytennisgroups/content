@@ -7,7 +7,7 @@ publishDate: "2025-03-02"
 ![avatar](/page/content-images/tennis-guy.png)
 
 
- [March - 2025](/page/march-2025/)
+ [March - 2025](/page/march-2025.md/)
 
 <time>Jan 1, 0001</time> Here are the pairings for March, 2025!<br>
 
