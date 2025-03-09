@@ -4,9 +4,6 @@ description: "MatchPoint Specific Description and Rules"
 publishDate: "2025-03-02"
 ---
 
-![avatar](/page/content-images/tennis-guy.png)
-
-
 [March - 2025](/page/march-2025.md/)
 
 First, place the PDF into the page/pdfs directory. Then, you can use the format below, replacing the file name to match your pairings. I'ts very important to ensure the path starts with ../pdfs/ :
