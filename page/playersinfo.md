@@ -1,10 +1,8 @@
 ---
-title: "PlayersInfo"
+title: "The Players Group FAQs"
 description: "Players FAQs"
 publishDate: "2025-03-02"
 ---
-
-# THE PLAYERS GROUP<br>
 ## Why join PLAYERS<br>
 
 ## [Email the group co-ordinator]<br>
