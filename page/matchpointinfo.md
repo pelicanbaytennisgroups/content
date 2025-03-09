@@ -9,9 +9,11 @@ Need a paragraph that let's potential players know if MatchPoint is a good fit f
 Contact the group coordinator to apply or get more information on MatchPoint
 ## When do we play -- 8:00 AM at North courts is preferred<br>
 1. Monday to Saturday, year-round<br>
-2. Captains create court request through Chelsea<br>
+2. Captains create court REQUESTs through Chelsea<br>
 3. Specify court preferance as **North/South/Any**,<br>
    Time preference as Requested: **8:00 AM**,  Earliest **8:00 AM**, Latest **11:00**<br>
+ 4. During high demand periods, Chelsea will schedule available times and courts between the Earliest and Latest time
+ 5. If no courts are available, you need to be BOOK any available court to play. 
 ## How we play matches
 1. Once you sign up, it is your responsibility to get a sub if you cannot play.<br>
 2. The captain is responsible for getting players if there are less than four. (Subs)<br>
