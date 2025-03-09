@@ -6,7 +6,7 @@ publishDate: "2025-03-02"
 ## Why join MATCHPOINT<br>
 Need a paragraph that let's potential players know if MatchPoint is a good fit for them.
 ## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)<br>
-         Mike Bowman
+Contact the group coordinator to apply or get more information on MatchPoint
 ## When do we play -- 8:00 AM at North courts is preferred<br>
 1. Monday to Saturday, year-round<br>
 2. Captains create court request through Chelsea<br>
