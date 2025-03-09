@@ -42,6 +42,5 @@ This email group is for MatchPoint Tennis use only. It is for requesting players
 If you feel the need to contact people, please use the Roster and send individual emails.
 If any other unrelated emails are sent, you may be subject to being removed from the group
 
-![image](https://github.com/user-attachments/assets/c2b1d09a-4454-4e8b-9d3c-5b92c2bff148)
 
 Powered by [Hugo](http://www.gohugo.io/) Theme By [nodejh](https://github.com/nodejh/hugo-theme-mini)
