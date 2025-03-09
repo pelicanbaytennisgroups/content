@@ -8,7 +8,7 @@ publishDate: "2025-03-07"
 
 **[April 2025 Signup](https://forms.gle/EYYqGhrG5Arbt72h6)**
 
-**Current Month Pairs**
+**Current Month Pairings Report**
 
 insert a link for the march-2025-pairings-pdf here
 
