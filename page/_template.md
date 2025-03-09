@@ -10,12 +10,10 @@ This folder (`page`) is where you can create a new post. Each `.md` document cor
 
 Here's how you can embed a PDF:
 
-First, place the PDF into the `page/pdfs` directory.
+First, place the PDF into the `/page/pdfs` directory.
 Then, you can use the format below, replacing the file name to match your pairings.
-I'ts very important to ensure the path starts with `../pdfs/` :
 
-{{< embed-pdf url="../pdfs/<YOUR MONTH HERE>-<YOUR YEAR HERE>-matchpoint-pairings.pdf" renderPageNum="1" >}}
-<embed-pdf url="../pdfs/march-2025-matchpoint-pairings.pdf" renderPageNum="1">
+{{< embed-pdf url="/page/pdfs/<YOUR MONTH HERE>-<YOUR YEAR HERE>-matchpoint-pairings.pdf" renderPageNum="1" >}}
 
 You can do the same with images by placing them into the `/page/content-images` directory.
 
