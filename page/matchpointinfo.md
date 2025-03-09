@@ -10,12 +10,11 @@ publishDate: "2025-03-02"
 ## [Email the group co-ordinator]<br>
 Mike Bowman
 
-## When do we play<br>
-Monday to Saturady, year-round<br>
-Court request through Chelsea<br> 
-  North/South/Any,<br>
-  Request ----------8 AM to 11 AM<br>
-  Preferred start - 8 AM<br>
+## When do we play,8:00 AM is preferred<br>
+1. Monday to Saturday, year-round<br>
+2. Captains create court request through Chelsea<br> 
+   Specify court preferance as **North/South/Any**,<br>
+   Time preference as Requested: **8:00 AM**,  Earliest **8:00 AM**, Latest **11:00**<br>
   
 ## How we play matches
 1. Once you sign up, it is your responsibility to get a sub if you cannot play.<br>
