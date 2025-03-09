@@ -1,5 +1,5 @@
 ---
-title: "MatchPointInfo"
+title: "MatchPoint Group FAQs"
 description: "MatchPoint FAQs"
 publishDate: "2025-03-02"
 ---
