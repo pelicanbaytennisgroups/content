@@ -21,8 +21,7 @@ Contact the group coordinator to apply or get more information on MatchPoint
 4. If you know someone interested in playing in the group, we need two references. If they don’t know anyone else they can start as a sub.<br>
 ## Signing up for to play with you unique email address.
 1. We schedule matches for one month at a time.  You can sign up (electronic form) during the prior month.
-2. 
-3. The email on the group roster is your unique ID for signing up for dates with the form. There is no password needed to signup.
+3. Your email on the group roster is your default, unique ID for signing up for dates with the form. There is no password needed to signup.
 4. There is only one email per player on the roster.
 5. If you wish to change your default email ID, please contact the group coordinator to make the change.
 6. If you use an email address, not on the roster, and it cannot be verified as belonging to you, YOUR REQUESTED DATES MAY BE IGNORED AND YOU WILL NOT BE SCHEDULED.
