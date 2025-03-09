@@ -1,7 +1,7 @@
 ---
 title: "MatchPoint Group FAQs"
 description: "MatchPoint FAQs"
-publishDate: "2025-03-02"
+publishDate: "2025-03-10"
 ---
 ## Why join MATCHPOINT<br>
 Need a paragraph that let's potential players know if MatchPoint is a good fit for them.
@@ -29,9 +29,9 @@ Contact the group coordinator to apply or get more information on MatchPoint
 ## Publishing the Schedule of Matches
 1. The schedule of matches for the next month is published on the Member page the day after signup ends
 2. The current month and the prior monthe schedules are alway available on the Member page
-3.  For example, signup for the month of April typically ends about March 24 (dates vary slightly each month). The April schedule is published the next day, on March 25. This gives captains time to create the court requests for April 1 matches. 
+3. For example, signup for the month of April typically ends about March 24 (dates vary slightly each month). The April schedule is published the next day, on March 25. This gives captains time to create the court requests for April 1 matches. 
 ## Entering court requests in Chelsea
-Court request need to be entered in Chelsea 3 days before the match date, for example, if a match on April 6, needs to be entered no later than April 2. Chelsea issue court assignment - by email - 3 days prior to the match, on April 3.
+Court request need to be entered in Chelsea 3 days before the match date, for example, if a match on April 6, the REQUEST needs to be entered no later than April 2. Chelsea issues court assignment 3 days prior to the match, on April 3. You are notified by email of court assignments.
 ## Requesting courts if you're the Captain.
 1. Login to Chelsea and create a court REQUEST at least 4 days prior to the date of the match <br>
 2. Enter Court Time Info.We play Monday- Saturday 8 am North 8:00 AM North/South/Any. 11 a.m. is the latest time to put.<br>
