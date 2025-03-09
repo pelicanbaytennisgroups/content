@@ -19,4 +19,4 @@ Groups may ...
 
 > Review the group descriptions to find a group and contact the group coordinator<b
 
-[Overview of Groups at Pelican Bay](page/groupsummaries.md/)
+[Overview of Groups at Pelican Bay](../groupsummaries.md/)
