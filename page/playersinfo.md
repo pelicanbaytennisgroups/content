@@ -1,6 +1,6 @@
 ---
 title: "PlayersInfo"
-description: "Players Specific Description and Rules"
+description: "Players FAQs"
 publishDate: "2025-03-02"
 ---
 
