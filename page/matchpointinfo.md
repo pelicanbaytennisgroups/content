@@ -3,8 +3,6 @@ title: "MatchPointInfo"
 description: "MatchPoint FAQs"
 publishDate: "2025-03-02"
 ---
-
-# MATCHPOINT GROUP<br>
 ## Why join MATCHPOINT<br>
 
 ## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)<br>
