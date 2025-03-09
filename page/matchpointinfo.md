@@ -1,6 +1,6 @@
 ---
 title: "MatchPointInfo"
-description: "MatchPoint Specific Description and Rules"
+description: "MatchPoint FAQs"
 publishDate: "2025-03-02"
 ---
 
