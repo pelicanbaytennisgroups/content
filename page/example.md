@@ -1,5 +1,5 @@
 ---
-title: "Groups"
+title: "example"
 description: "Information on Groups"
 publishDate: "2025-03-02"
 ---
