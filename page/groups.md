@@ -18,7 +18,7 @@ publishDate: "2025-03-02"
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
-## [THE PLAYERS](/page/playersinfo.md)
+## [THE PLAYERS](/page/playersinfo.md/)
 **Men, 3.5 and up,**<br>
 * Play required with members to verify skill level
 * Tuesday, Thursday, Saturday, **November to May**
