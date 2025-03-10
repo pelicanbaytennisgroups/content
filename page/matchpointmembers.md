@@ -3,6 +3,10 @@ title: "MatchPoint Members Page"
 description: "Current Month Pairings and Next Month Signup"
 publishDate: "2025-03-07"
 ---
+[Email the co-ordinator](mailto:m.bowman@yahoo.com)
+
+[Email entire group to request a sub](mailto:matchpoint-tennis@googlegroups.com)
+
 ## **Sign up NOW to play in April**<br>
 
 > **April signup ends March 24**\
