@@ -19,7 +19,10 @@ Contact the group coordinator to apply or get more information on MatchPoint
 3. Specify court preferance as **North/South/Any**,<br>
    Time preference as Requested: **9:30 AM**,  Earliest **8:00 AM**, Latest **11:00**<br>
  4. During high demand periods, Chelsea schedules courts on a best available basis
- 5. If no courts are available, you need to be BOOK any available court to play. 
+ 5. If no courts are available, you need to be BOOK any available court to play.
+## Matches pairings are skill base
+The Players matches players of similar skill for competitive and fun matches whenever possible.
+If you feel that you are playing "to high" or "to low", talk to the group coordinator, to get more or less competitive matches.
 ## How we play matches
 1. Once you sign up, it is your responsibility to get a sub if you cannot play.<br>
 2. The captain is responsible for getting players if there are less than four. (Subs)<br>
