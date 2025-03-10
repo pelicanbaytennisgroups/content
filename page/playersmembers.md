@@ -14,4 +14,4 @@ publishDate: "2025-03-07"
 >**Current Month Pairings Report**
 {{< embed-pdf url="/page/pdfs/march-2025-players-pairings.pdf" renderPageNum="1" >}}\
 >**Prior Month Schedule**
-{{< embed-pdf url="/page/pdfs/march-2025-matchppoint-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/february-2025-players-pairings.pdf" renderPageNum="1" >}}
