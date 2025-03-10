@@ -10,7 +10,7 @@ publishDate: "2025-03-07"
 
 ## **[April 2025 Signup Form](https://forms.gle/LjnqcQuecU7qC6a58)**
 
->## **Current Month Pairings Report**
+>## **Current Month Schedule**
 {{< embed-pdf url="/page/pdfs/march-2025-players-pairings.pdf" renderPageNum="1" >}}\
 >## **Prior Month Schedule**
 {{< embed-pdf url="/page/pdfs/february-2025-players-pairings.pdf" renderPageNum="1" >}}
