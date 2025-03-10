@@ -4,6 +4,7 @@ description: "Players FAQs"
 publishDate: "2025-03-02"
 ---
 
+Casper Ruud practicing at 2025 Indian Wells\
 ![Casper Rudd practice at Indian Wells 2025](content-images/casperruudindianwellsbillcaufield_crop.png)
 
 ## How to join THE PLAYERS<br>
