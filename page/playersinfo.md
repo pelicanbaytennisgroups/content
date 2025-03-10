@@ -6,6 +6,7 @@ publishDate: "2025-03-02"
 ## Why join PLAYERS<br>
 
   Players is .... 
+[Play Tennis](content-images/casperruudindianwellsbillcaufield_crop.png)
 
 ## [Email the group co-ordinator](mailto:turnerdb1@gmail.com)<br>
 Contact the group coordinator to apply or get more information on MatchPoint
