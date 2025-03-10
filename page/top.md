@@ -8,7 +8,7 @@ publishDate: "2025-03-09"
 
 [Overview of Groups at Pelican Bay](../groupsummaries.md/)
 
-There are many social groups organized for weekly play<br>
+>There are many social groups organized for weekly play<br>
 Groups may schedule matches for the all or part of the winter season<br>
 Some groups schedule matches year-round<br>
 Groups are privately organized by Pelican Bay residents and are not a service of the Pelican Bay Foundation<br>
