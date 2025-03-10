@@ -9,6 +9,7 @@ North Tennis\
 # Find and join a tennis group at Pelican Bay
 
 [Overview of Men's Groups at Pelican Bay](page/groupsummaries/)
+[New link](https://pelicanbaytennisgroups.com/page/groupsummaries/)
 
 >There are many social groups organized for weekly play.<br>
 >Groups may schedule matches for the season or year-round.<br>
