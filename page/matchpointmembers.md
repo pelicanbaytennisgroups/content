@@ -1,5 +1,5 @@
 ---
-title: "MatchPoint Signup Page"
+title: "MatchPoint Members Page"
 description: "Current Month Pairings and Next Month Signup"
 publishDate: "2025-03-07"
 ---
