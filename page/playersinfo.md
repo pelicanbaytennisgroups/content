@@ -3,10 +3,12 @@ title: "The Players Group FAQs"
 description: "Players FAQs"
 publishDate: "2025-03-02"
 ---
+
+![Casper Rudd practice at Indian Wells 2025](content-images/casperruudindianwellsbillcaufield_crop.png)
+
 ## How to join THE PLAYERS<br>
 
-  Players is .... describe the process for getting on the roster to play
-![Play like Casper Rudd](content-images/casperruudindianwellsbillcaufield_crop.png)
+  describe the process for getting on the roster to play
 
 ## [Email the group co-ordinator](mailto:turnerdb1@gmail.com)<br>
 Contact the group coordinator to apply or get more information on MatchPoint
