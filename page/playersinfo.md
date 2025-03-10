@@ -3,14 +3,15 @@ title: "The Players Group FAQs"
 description: "Players FAQs"
 publishDate: "2025-03-02"
 ---
-## Why join PLAYERS<br>
+## How to join THE PLAYERS<br>
 
-  Players is .... 
+  Players is .... describe the process for getting on the roster to play
 ![Play like Casper Rudd](content-images/casperruudindianwellsbillcaufield_crop.png)
 
 ## [Email the group co-ordinator](mailto:turnerdb1@gmail.com)<br>
 Contact the group coordinator to apply or get more information on MatchPoint
-## When do we play -- 8:00 AM at North courts<br>
+
+## When do we play -- 9:30 AM at North courts<br>
 1. Tuesday, Thursday, and Saturday, December to May<br>
 2. Captains create court REQUESTs through Chelsea<br>
 3. Specify court preferance as **North/South/Any**,<br>
@@ -20,8 +21,7 @@ Contact the group coordinator to apply or get more information on MatchPoint
 ## How we play matches
 1. Once you sign up, it is your responsibility to get a sub if you cannot play.<br>
 2. The captain is responsible for getting players if there are less than four. (Subs)<br>
-3. When requesting a sub, email the group including your name, who is playing, and your needs. Once a sub is found, email everyone with the sub's name. You also need to edit the request with the replacement in Chelsea. If you can be the sub, use “reply” and not “reply all” to the Captain.<br>
-4. If you know someone interested in playing in the group, we need two references. If they don’t know anyone else they can start as a sub.<br>
+3. When requesting a sub, email the group including your name, who is playing, and your needs.  Confirm the sub via email.<br>
 ## Signing up for to play with your unique email address.
 1. We publish a schedule of matches for one month at a time.  You sign up (electronic form) during the prior month.
 3. Your email on the group roster is your default, unique ID for signing up for dates with the form. There is no password needed to signup.
@@ -43,12 +43,5 @@ Contact the group coordinator to apply or get more information on MatchPoint
 5. Enter Player Info and Submit.<br>
    Type the first few letters of the players last nanme and select from the list.  You do not need the Pelican Bay ID.<br>
 6. **For each match, the Captain supplies new clay court balls.** If you are the Captain and need to sub out of a match, you still are responsible for supplying the match balls.<br>
-## Google Group EMAIL list:
-1. Your default roster email will be added to the MatchPoint Google Group: matchpoint-tennis@googlegroups.com
-2. Check your spam and mark @googlegroups as a safe sender. Create a contact in your addressb book. This ensures that your mail spam filter will not block group emails.<br>
-3. The group email allows you to send emails to all members of the MatchPoint tennis group when you address and email to matchpoint-tennis@googlegroups.com.<br>
-4. Reply directly to the sender when agreeing to sub to prevent flooding everyone with unnecessary emails.
-5. **The group email is exclusively for The Players administrative use only.** The group email is to be used only by the group coordinator to send notifications to the entire group and for group members to find subs or fill openings in matches.<br>
-If you feel the need to contact people, please use the Roster and send individual emails. If any other unrelated emails are sent, you may be subject to being removed from the group<br>
 
 Powered by [Hugo](http://www.gohugo.io/) Theme By [nodejh](https://github.com/nodejh/hugo-theme-mini)
