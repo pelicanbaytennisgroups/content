@@ -22,12 +22,16 @@ publishDate: "2025-03-10"
 
 #### **Men, 3.5 and up,**
 
+The Players Group was started with the objective of offering individuals who play at about the 3.5 level players an opportunity to play a competitive game with like-minded individuals.  New members play at about the 3.5 level and are mobile on the court. We play to have fun.
+
+![image](https://github.com/user-attachments/assets/517a4973-d4dc-46f0-9523-5037e78a5df4)
+
 * Play required with members to verify skill level
-* Tuesday, Thursday, Saturday, **November to May**
-* Players of similar level skill are paired together for matches
-* Request courts for NORTH at 9:30 am
+* Tuesday, Thursday, Saturday, **December to May**
+* Players of similar skill are paired together for matches when ever possible
+* Request courts for ANY at 9:30 am
 * Approximately  25 to 35 active players during season
-* Group Objective: **More Competitive, Social**
+* Group Objective: **Competitive, Social**
 
 ### RAFFO SUNDAY
 
