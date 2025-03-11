@@ -8,7 +8,7 @@ refresh-readme:
 	@echo '' >> README.md.new
 	@echo '## External links to file map' >> README.md.new
 	@echo '' >> README.md.new
-	@echo '| External URL | Repository File | Description |' >> README.md.new
+	@echo '| External URL | Repository File | Title and/or Description |' >> README.md.new
 	@echo '|-------------|-----------------|-------------|' >> README.md.new
 	
 	@# Create temporary files for entries and mermaid diagram
@@ -23,8 +23,14 @@ refresh-readme:
 	
 	@# Add top.md first
 	@if [ -f "page/top.md" ]; then \
-		description=$$(grep -m 1 "description:" "page/top.md" | sed 's/description: *//;s/"//g;s/ *$$//g' || echo ""); \
-		echo "| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | $$description |" >> README.md.new; \
+		title=$$(grep -m 1 "title:" "page/top.md" | sed 's/title: *//;s/"//g;s/^ *//;s/ *$$//g;s/\r//g;s/\n//g' || echo "Home"); \
+		description=$$(grep -m 1 "description:" "page/top.md" | sed 's/description: *//;s/"//g;s/^ *//;s/ *$$//g;s/\r//g;s/\n//g' || echo ""); \
+		if [ -n "$$description" ]; then \
+			full_desc="$$title ($$description)"; \
+		else \
+			full_desc="$$title"; \
+		fi; \
+		echo "| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | $$full_desc |" >> README.md.new; \
 		echo "    page_top[\"/page/top\"]" >> mermaid.temp; \
 		echo "    page -->|\"top\"| page_top" >> mermaid.temp; \
 		echo "page_top" >> created_nodes.temp; \
@@ -60,8 +66,20 @@ refresh-readme:
 		page_name=$$(basename $$external_url); \
 		file_without_ext=$$(echo $$file | sed 's|\.md$$||'); \
 		parent_dir=$$(dirname $$file); \
-		description=$$(grep -m 1 "description:" "$$file" | sed 's/description: *//;s/"//g;s/ *$$//g' || echo ""); \
-		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/$$external_url|[$$file](/$$file)|$$description" >> README.md.temp; \
+		title=$$(grep -m 1 "title:" "$$file" | sed 's/title: *//;s/"//g;s/^ *//;s/ *$$//g;s/\r//g;s/\n//g' || echo ""); \
+		description=$$(grep -m 1 "description:" "$$file" | sed 's/description: *//;s/"//g;s/^ *//;s/ *$$//g;s/\r//g;s/\n//g' || echo ""); \
+		if [ -n "$$title" ] && [ -n "$$description" ]; then \
+			if echo "$$description" | grep -q "$$title"; then \
+				full_desc="$$description"; \
+			else \
+				full_desc="$$title - $$description"; \
+			fi; \
+		elif [ -n "$$title" ]; then \
+			full_desc="$$title"; \
+		else \
+			full_desc="$$description"; \
+		fi; \
+		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/$$external_url|[$$file](/$$file)|$$full_desc" >> README.md.temp; \
 		\
 		node_id=$$(echo $$file_without_ext | sed 's|/|_|g'); \
 		if ! grep -q "^$$node_id$$" created_nodes.temp; then \
@@ -74,7 +92,7 @@ refresh-readme:
 	done
 	
 	@# Create a proper format for table rows - process in a way that handles whitespace properly
-	@sort -t"|" -k1n -k2 README.md.temp | awk -F"|" '{ printf "| %s | %s | %s |\n", $$3, $$4, $$5 }' >> README.md.new
+	@sort -t"|" -k1n -k2 -u README.md.temp | awk -F"|" '{gsub(/^ +| +$$/, "", $$3); gsub(/^ +| +$$/, "", $$4); gsub(/^ +| +$$/, "", $$5); printf "| %s | %s | %s |\n", $$3, $$4, $$5 }' >> README.md.new
 	
 	@# No additional styling needed - using global styling
 	
