@@ -72,7 +72,7 @@ refresh-readme:
 			if echo "$$description" | grep -q "$$title"; then \
 				full_desc="$$description"; \
 			else \
-				full_desc="$$title - $$description"; \
+				full_desc="$$title ($$description)"; \
 			fi; \
 		elif [ -n "$$title" ]; then \
 			full_desc="$$title"; \
