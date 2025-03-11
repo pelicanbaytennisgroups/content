@@ -12,10 +12,9 @@ publishDate: "2025-03-07"
 
 **Contacts**
 >-[Coordinator](mailto:m.bowman@yahoo.com)\
->-[Request a sub](mailto:matchpoint-tennis@googlegroups.com)\
+>-[Request a sub](mailto:matchpoint-tennis@googlegroups.com)
 
-
-### **Current Month Schedule**
+### **Current Month Schedule and Roster**
 {{< embed-pdf url="/page/pdfs/matchpoint/march-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
 ### **Prior Month Schedule**
 {{< embed-pdf url="/page/pdfs/matchpoint/february-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
