@@ -11,28 +11,85 @@ refresh-readme:
 	@echo '| External URL | Repository File | Description |' >> README.md.new
 	@echo '|-------------|-----------------|-------------|' >> README.md.new
 	
+	@# Create temporary files for entries and mermaid diagram
+	@echo "graph TD" > mermaid.temp
+	@echo "    %% Site structure diagram with styling" >> mermaid.temp
+	@echo "    classDef default fill:#000,color:#fff,stroke:#666,stroke-width:1px;" >> mermaid.temp
+	@echo "    Root[\"/\"]" >> mermaid.temp
+	@echo "    page[\"/page\"]" >> mermaid.temp
+	@echo "    Root -->|\"page\"| page" >> mermaid.temp
+	@# Create empty files for tracking created nodes
+	@> created_nodes.temp
+	
 	@# Add top.md first
 	@if [ -f "page/top.md" ]; then \
 		description=$$(grep -m 1 "description:" "page/top.md" | sed 's/description: *//;s/"//g' || echo ""); \
 		echo "| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | $$description |" >> README.md.new; \
+		echo "    page_top[\"/page/top\"]" >> mermaid.temp; \
+		echo "    page -->|\"top\"| page_top" >> mermaid.temp; \
+		echo "page_top" >> created_nodes.temp; \
 	fi
 	
-	@# Create a temporary file with all other entries
+	@# First, build a list of all directories to ensure we have nodes for every level
+	@find page -type d | grep -v "_images" | grep -v "pdfs" | sort | while read dir; do \
+		if [ "$$dir" != "page" ] && [ "$$dir" != "page/example.md" ]; then \
+			rel_path=$$(echo $$dir | sed 's|^page/||'); \
+			if [ -n "$$rel_path" ]; then \
+				node_id=$$(echo $$dir | sed 's|/|_|g'); \
+				name=$$(basename $$rel_path); \
+				if ! grep -q "^$$node_id$$" created_nodes.temp; then \
+					echo "    $$node_id[\"/$$dir\"]" >> mermaid.temp; \
+					echo "$$node_id" >> created_nodes.temp; \
+					if [ "$$(echo $$rel_path | grep -o '/' | wc -l)" -eq 0 ]; then \
+						parent_id="Root"; \
+					else \
+						parent_dir=$$(dirname $$dir); \
+						parent_id=$$(echo $$parent_dir | sed 's|/|_|g'); \
+					fi; \
+					echo "    $$parent_id -->|\"$$name\"| $$node_id" >> mermaid.temp; \
+				fi; \
+			fi; \
+		fi; \
+	done
+	
+	@# Process files for both the table and mermaid diagram
 	@find page -type f -name "*.md" | grep -v "example.md" | grep -v "page/top.md" | sort | while read file; do \
 		rel_path=$$(echo $$file | sed 's|^page/||'); \
 		level=$$(echo $$rel_path | awk -F"/" '{print NF-1}'); \
 		external_url=$$(echo $$rel_path | sed 's|\.md$$||'); \
+		page_name=$$(basename $$external_url); \
+		file_without_ext=$$(echo $$file | sed 's|\.md$$||'); \
+		parent_dir=$$(dirname $$file); \
 		description=$$(grep -m 1 "description:" "$$file" | sed 's/description: *//;s/"//g' || echo ""); \
 		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/$$external_url|[$$file](/$$file)|$$description" >> README.md.temp; \
+		\
+		node_id=$$(echo $$file_without_ext | sed 's|/|_|g'); \
+		if ! grep -q "^$$node_id$$" created_nodes.temp; then \
+			echo "    $$node_id[\"/$$file_without_ext\"]" >> mermaid.temp; \
+			echo "$$node_id" >> created_nodes.temp; \
+			\
+			parent_id=$$(echo $$parent_dir | sed 's|/|_|g'); \
+			echo "    $$parent_id -->|\"$$page_name\"| $$node_id" >> mermaid.temp; \
+		fi; \
 	done
 	
-	@# Sort by level and name
+	@# Sort by level and name for the table
 	@sort -t"|" -k1n -k2 README.md.temp | cut -d"|" -f3- | \
 		while IFS="|" read -r external repo desc; do \
 			echo "| $$external | $$repo | $$desc |" >> README.md.new; \
 		done
 	
-	@rm -f README.md.temp
+	@# No additional styling needed - using global styling
+	
+	@# Add the sitemap section
+	@echo "" >> README.md.new
+	@echo "## Sitemap" >> README.md.new
+	@echo "" >> README.md.new
+	@echo '```mermaid' >> README.md.new
+	@cat mermaid.temp >> README.md.new
+	@echo '```' >> README.md.new
+	
+	@rm -f README.md.temp mermaid.temp created_nodes.temp
 	@mv README.md.new README.md
 	@echo "README.md has been updated."
 

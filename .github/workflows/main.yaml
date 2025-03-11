@@ -1,5 +1,11 @@
 name: Update Submodules and README
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write  # Changed from 'read' to 'write' to allow pushing
+  pages: write
+  id-token: write
+
 on:
   push:
     branches:
