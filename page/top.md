@@ -1,5 +1,6 @@
 ---
 title: "Tennis Groups at Pelican Bay"
+description: "Landing page"
 ---
 
 # Find and join a tennis group at Pelican Bay
