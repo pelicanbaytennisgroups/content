@@ -1,12 +1,11 @@
 ---
-title: "Tennis Groups at Pelican Bay"
+title: "Men's Tennis Groups at Pelican Bay"
 description: "Landing page"
 ---
 
 # Find and join a tennis group at Pelican Bay
 
-## North Tennis
-
+North Tennis
 ![courts](/page/_images/tennis-courts.png)
 
 ## Overview
