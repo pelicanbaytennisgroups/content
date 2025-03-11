@@ -5,6 +5,7 @@
 | External URL | Repository File | Title and/or Description |
 |-------------|-----------------|-------------|
 | https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
+| https://pelicanbaytennisgroups.com/_template | [page/_template.md](/page/_template.md) | example - Information on Groups |
 | https://pelicanbaytennisgroups.com/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Pelican Bay Tennis Groups - Information on Groups |
 | https://pelicanbaytennisgroups.com/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs - MatchPoint FAQs |
 | https://pelicanbaytennisgroups.com/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page - Current Month Pairings and Next Month Signup |
@@ -30,6 +31,8 @@ graph TD
     page_groups -->|"matchpoint"| page_groups_matchpoint
     page_groups_players["/page/groups/players"]
     page_groups -->|"players"| page_groups_players
+    page__template["/page/_template"]
+    page -->|"_template"| page__template
     page_groups_matchpoint_info["/page/groups/matchpoint/info"]
     page_groups_matchpoint -->|"info"| page_groups_matchpoint_info
     page_groups_matchpoint_members["/page/groups/matchpoint/members"]
