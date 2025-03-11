@@ -1,13 +1,12 @@
 ---
-title: "Pelican Bay Tennis Groups"
+title: "Men's Tennis Groups"
 description: "Information on Groups"
 publishDate: "2025-03-10"
 ---
-# Men's Groups Descriptions
 
-## [MATCHPOINT](/page/groups/matchpoint/info)
+### [MATCHPOINT](/page/groups/matchpoint/info)
 
-### **Men, 3.5 and up**
+#### **Men, 3.5 and up**
 
 * Sub in first month to verify skill level or recommendation of 2 members
 * Plays **Year-Round**
@@ -19,9 +18,9 @@ publishDate: "2025-03-10"
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
-## [THE PLAYERS](/page/groups/players/info)
+### [THE PLAYERS](/page/groups/players/info)
 
-### **Men, 3.5 and up,**
+#### **Men, 3.5 and up,**
 
 * Play required with members to verify skill level
 * Tuesday, Thursday, Saturday, **November to May**
@@ -30,9 +29,9 @@ publishDate: "2025-03-10"
 * Approximately  25 to 35 active players during season
 * Group Objective: **More Competitive, Social**
 
-## RAFFO SUNDAY
+### RAFFO SUNDAY
 
-### **Men, 4.0,**
+#### **Men, 4.0,**
 
 Contact group coordinator to apply
 
@@ -40,14 +39,12 @@ Contact group coordinator to apply
 * Approximately  25 to 35 active players during season
 * Group Objective: **More Competitive, Social**
 
-## STUART MWF
+### STUART MWF
 
-Click link for full description of the group
-
-### **Men, 4.0**
+#### **Men, 4.0**
 
 Contact group coordinator to apply
-*Sunday afternoon, **what is the season**
 
+* Monday, Wednesday, Friday in season
 * Approximately  25 to 35 active players during season
 * Group Objective: **Very Competitive**
