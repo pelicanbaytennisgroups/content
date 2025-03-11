@@ -23,7 +23,7 @@ refresh-readme:
 	
 	@# Add top.md first
 	@if [ -f "page/top.md" ]; then \
-		description=$$(grep -m 1 "description:" "page/top.md" | sed 's/description: *//;s/"//g' || echo ""); \
+		description=$$(grep -m 1 "description:" "page/top.md" | sed 's/description: *//;s/"//g;s/ *$$//g' || echo ""); \
 		echo "| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | $$description |" >> README.md.new; \
 		echo "    page_top[\"/page/top\"]" >> mermaid.temp; \
 		echo "    page -->|\"top\"| page_top" >> mermaid.temp; \
@@ -60,7 +60,7 @@ refresh-readme:
 		page_name=$$(basename $$external_url); \
 		file_without_ext=$$(echo $$file | sed 's|\.md$$||'); \
 		parent_dir=$$(dirname $$file); \
-		description=$$(grep -m 1 "description:" "$$file" | sed 's/description: *//;s/"//g' || echo ""); \
+		description=$$(grep -m 1 "description:" "$$file" | sed 's/description: *//;s/"//g;s/ *$$//g' || echo ""); \
 		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/$$external_url|[$$file](/$$file)|$$description" >> README.md.temp; \
 		\
 		node_id=$$(echo $$file_without_ext | sed 's|/|_|g'); \
@@ -73,11 +73,8 @@ refresh-readme:
 		fi; \
 	done
 	
-	@# Sort by level and name for the table
-	@sort -t"|" -k1n -k2 README.md.temp | cut -d"|" -f3- | \
-		while IFS="|" read -r external repo desc; do \
-			echo "| $$external | $$repo | $$desc |" >> README.md.new; \
-		done
+	@# Create a proper format for table rows - process in a way that handles whitespace properly
+	@sort -t"|" -k1n -k2 README.md.temp | awk -F"|" '{ printf "| %s | %s | %s |\n", $$3, $$4, $$5 }' >> README.md.new
 	
 	@# No additional styling needed - using global styling
 	
