@@ -3,9 +3,9 @@ title: "MatchPoint Group FAQs"
 description: "MatchPoint FAQs"
 publishDate: "2025-03-10"
 ---
-## Why join MATCHPOINT
+## How to Join MATCHPOINT
 
-Need a paragraph that let's potential players know if MatchPoint is a good fit for them.
+Describe how you join matchpoint
 
 ## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)
 
@@ -19,6 +19,11 @@ Contact the group coordinator to apply or get more information on MatchPoint
    Time preference as Requested: **8:00 AM**,  Earliest **8:00 AM**, Latest **11:00**
 4. During high demand periods, Chelsea schedules courts on a best available basis
 5. If no courts are available, you need to be BOOK any available court to play.
+
+## We match you with players of similar skill
+1. Our objective is that matches are fun and competitive for everyone.
+2. When ever possible, we match players of similar skills.
+3. Discuss your skills with the Coordinator at any time to adjust your level of competition.
 
 ## How we play matches
 
