@@ -6,7 +6,7 @@ title: "Tennis Groups at Pelican Bay"
 
 ## North Tennis
 
-![courts](/page/content-images/tennis-courts.png)
+![courts](/page/_images/tennis-courts.png)
 
 ## Overview
 

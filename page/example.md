@@ -4,7 +4,7 @@ description: "Information on Groups"
 publishDate: "2025-03-02"
 ---
 
-![avatar](/page/content-images/tennis-guy.png)
+![avatar](/page/_images/tennis-guy.png)
 
 # IGNORE BELOW -- CLEANUP LATER
 

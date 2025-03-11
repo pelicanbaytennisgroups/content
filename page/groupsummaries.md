@@ -3,16 +3,12 @@ title: "Pelican Bay Tennis Groups"
 description: "Information on Groups"
 publishDate: "2025-03-10"
 ---
+# Men's Groups Descriptions
 
+## [MATCHPOINT](/page/groups/matchpoint/info.md/)
 
+### **Men, 3.5 and up**
 
-Groups Descriptions
-
-## Men's Groups Descriptions
-
-## [MATCHPOINT](/page/matchpointinfo.md/)
-
-> **Men, 3.5 and up **<br>
 * Sub in first month to verify skill level or recommendation of 2 members
 * Plays **Year-Round**
 * Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
@@ -23,8 +19,10 @@ Groups Descriptions
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
-## [THE PLAYERS](/page/playersinfo.md/)
-**Men, 3.5 and up,**<br>
+## [THE PLAYERS](/page/groups/players/info.md/)
+
+### **Men, 3.5 and up,**
+
 * Play required with members to verify skill level
 * Tuesday, Thursday, Saturday, **November to May**
 * Players of similar level skill are paired together for matches
@@ -33,7 +31,9 @@ Groups Descriptions
 * Group Objective: **More Competitive, Social**
 
 ## RAFFO SUNDAY
-> **Men, 4.0,**<br>
+
+### **Men, 4.0,**
+
 Contact group coordinator to apply
 
 * Sunday afternoon, **January, February March only**
@@ -41,12 +41,13 @@ Contact group coordinator to apply
 * Group Objective: **More Competitive, Social**
 
 ## STUART MWF
-click link for full description of the group
-> **Men, 4.0**<br>
+
+Click link for full description of the group
+
+### **Men, 4.0**
+
 Contact group coordinator to apply
 *Sunday afternoon, **what is the season**
 
 * Approximately  25 to 35 active players during season
 * Group Objective: **Very Competitive**
-
-Powered by [Hugo](http://www.gohugo.io/) Theme By [nodejh](https://github.com/nodejh/hugo-theme-mini)
