@@ -1,5 +1,5 @@
 ---
-title: "Players Members Page"
+title: "Players Members Only"
 description: "The Players Members Page - Schedules and Signup"
 publishDate: "2025-03-07"
 ---
