@@ -79,7 +79,7 @@ refresh-readme:
 		else \
 			full_desc="$$description"; \
 		fi; \
-		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/$$external_url|[$$file](/$$file)|$$full_desc" >> README.md.temp; \
+		echo "$$level|$$rel_path|https://pelicanbaytennisgroups.com/page/$$external_url|[$$file](/$$file)|$$full_desc" >> README.md.temp; \
 		\
 		node_id=$$(echo $$file_without_ext | sed 's|/|_|g'); \
 		if ! grep -q "^$$node_id$$" created_nodes.temp; then \
