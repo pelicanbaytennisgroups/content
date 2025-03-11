@@ -2,9 +2,9 @@
 
 ## External links to file map
 
-| External URL | Repository File | Description |
+| External URL | Repository File | Title and/or Description |
 |-------------|-----------------|-------------|
-| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay - Landing page |
+| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
 | https://pelicanbaytennisgroups.com/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Pelican Bay Tennis Groups - Information on Groups |
 | https://pelicanbaytennisgroups.com/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs - MatchPoint FAQs |
 | https://pelicanbaytennisgroups.com/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page - Current Month Pairings and Next Month Signup |
