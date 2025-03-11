@@ -3,8 +3,6 @@ title: "Men's Tennis Groups at Pelican Bay"
 description: "Landing page"
 ---
 
-#### Find and join a tennis group at Pelican Bay
-
 North Tennis\
 ![courts](/page/_images/tennis-courts.png)
 
@@ -25,5 +23,3 @@ Groups may ...
 1. Require a specific level of skill to insure fun and competitive play.
 2. Limit total membership.
 3. Schedule matches on specific days and at specific times.
-
-Review the [group descriptions]((/page/groupsummaries/)) to find a group and contact the group coordinator.
