@@ -11,7 +11,7 @@ description: "Landing page"
 
 ## Overview
 
-[Overview of Men's Groups at Pelican Bay](page/groupsummaries/)
+[Overview of Men's Groups at Pelican Bay](/page/groupsummaries/)
 
 There are many social groups organized for weekly play.
 Groups may schedule matches for the **season** or **year-round**.
@@ -27,4 +27,4 @@ Groups may ...
 2. Limit total membership.
 3. Schedule matches on specific days and at specific times.
 
-Review the [group descriptions]((page/groupsummaries/)) to find a group and contact the group coordinator.
+Review the [group descriptions]((/page/groupsummaries/)) to find a group and contact the group coordinator.

@@ -8,7 +8,7 @@ publishDate: "2025-03-07"
 
 [Email entire group to request a sub](mailto:matchpoint-tennis@googlegroups.com)
 
-## **Sign up NOW to play in April**<br>
+## **Sign up NOW to play in April**
 
 ## **April signup ends March 24**
 
