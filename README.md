@@ -4,7 +4,7 @@
 
 | External URL | Repository File | Title and/or Description |
 |-------------|-----------------|-------------|
-| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
+| https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Men's Tennis Groups at Pelican Bay (Landing page) |
 | https://pelicanbaytennisgroups.com/page/_template | [page/_template.md](/page/_template.md) | example (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Pelican Bay Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
