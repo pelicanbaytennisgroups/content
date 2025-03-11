@@ -14,7 +14,7 @@ publishDate: "2025-03-07"
 
 ## **May signup starts March 25 and ends April 24**
 
-## **[April 2025 Signup Form](/page/groups/matchpoint/signup.md)**
+## **[April 2025 Signup Form](/page/groups/matchpoint/signup)**
 
 ## **Current Month Schedule**
 

@@ -10,7 +10,7 @@ publishDate: "2025-03-07"
 
 ### **May signup starts March 25 and ends April 24**
 
-## **[April 2025 Signup Form](/page/groups/players/signup.md)**
+## **[April 2025 Signup Form](/page/groups/players/signup)**
 
 ## **Current Month Schedule**
 
