@@ -5,7 +5,7 @@ publishDate: "2025-03-10"
 ---
 # Men's Groups Descriptions
 
-## [MATCHPOINT](/page/groups/matchpoint/info.md/)
+## [MATCHPOINT](/page/groups/matchpoint/info)
 
 ### **Men, 3.5 and up**
 
@@ -19,7 +19,7 @@ publishDate: "2025-03-10"
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*
 
-## [THE PLAYERS](/page/groups/players/info.md/)
+## [THE PLAYERS](/page/groups/players/info)
 
 ### **Men, 3.5 and up,**
 
