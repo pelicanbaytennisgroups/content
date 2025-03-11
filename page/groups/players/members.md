@@ -4,6 +4,8 @@ description: "The Players Members Page - Schedules and Signup"
 publishDate: "2025-03-07"
 ---
 
+Do not share this page with anyone\
+For **The Players members ONLY**
 #### **Sign up NOW to play in April**
 >**- April signup ends March 24**\
 >**- May signup starts March 25 and ends April 24**
