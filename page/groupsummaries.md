@@ -22,11 +22,10 @@ publishDate: "2025-03-10"
 
 #### **Men, 3.5 and up,**
 
-The Players Group was started with the objective of offering individuals who play at about the 3.5 level players an opportunity to play a competitive game with like-minded individuals.  New members play at about the 3.5 level and are mobile on the court. We play to have fun.
+The Players group offers fun and competitive matches. New members play at about a 3.5 level and are mobile on the court. Our member have fun !
+Prospective players (applicants) sub for one month to test their interest in playing in the group
 
-![image](https://github.com/user-attachments/assets/517a4973-d4dc-46f0-9523-5037e78a5df4)
-
-* Play required with members to verify skill level
+* Sub in the first month to verify skill level
 * Tuesday, Thursday, Saturday, **December to May**
 * Players of similar skill are paired together for matches when ever possible
 * Request courts for ANY at 9:30 am
