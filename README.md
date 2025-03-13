@@ -13,6 +13,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/players/info | [page/groups/players/info.md](/page/groups/players/info.md) | The Players Group FAQs (Players FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/players/members | [page/groups/players/members.md](/page/groups/players/members.md) | Players Members Only (The Players Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/players/signup | [page/groups/players/signup.md](/page/groups/players/signup.md) | Signup form for Players members |
+| https://pelicanbaytennisgroups.com/page/groups/stuart/members | [page/groups/stuart/members.md](/page/groups/stuart/members.md) |  |
 
 ## Sitemap
 
@@ -31,6 +32,8 @@ graph TD
     page_groups -->|"matchpoint"| page_groups_matchpoint
     page_groups_players["/page/groups/players"]
     page_groups -->|"players"| page_groups_players
+    page_groups_stuart["/page/groups/stuart"]
+    page_groups -->|"stuart"| page_groups_stuart
     page__template["/page/_template"]
     page -->|"_template"| page__template
     page_groups_matchpoint_info["/page/groups/matchpoint/info"]
@@ -45,6 +48,8 @@ graph TD
     page_groups_players -->|"members"| page_groups_players_members
     page_groups_players_signup["/page/groups/players/signup"]
     page_groups_players -->|"signup"| page_groups_players_signup
+    page_groups_stuart_members["/page/groups/stuart/members"]
+    page_groups_stuart -->|"members"| page_groups_stuart_members
     page_groupsummaries["/page/groupsummaries"]
     page -->|"groupsummaries"| page_groupsummaries
 ```
