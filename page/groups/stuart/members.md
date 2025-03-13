@@ -12,13 +12,13 @@ For **Stuart MWF members ONLY**
 >**- May signup starts March 25**\
 >**- May signup ends  April 24**
 
-**[April 2025 Signup Form](https://forms.gle/2sjJW4dYT69odeE5A)**
+**[April 2025 Signup Form](https://forms.gle/bDUtsP8oJgU5J7TC6)**
 
 **Contacts**
 >-[Coordinator](mailto:mark@onthegoleisure.com)\
 >-[Request a sub -- empty place holder](mailto:mark@onthegoleisure.com)
 
 ### **Current Month Schedule and Roster**
-{{< embed-pdf url="/page/pdfs/stuar/april-2025-stuart-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/stuart/april-2025-stuart-pairings.pdf" renderPageNum="1" >}}
 ### **Prior Month Schedule**
 {{< embed-pdf url="/page/pdfs/stuart/march-2025-stuart-pairings.pdf" renderPageNum="1" >}}
