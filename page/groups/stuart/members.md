@@ -12,7 +12,7 @@ For **Stuart MWF members ONLY**
 >**- May signup starts March 25**\
 >**- May signup ends  April 24**
 
-**[April 2025 Signup Form](/page/groups/matchpoint/signup)**
+**[April 2025 Signup Form](https://forms.gle/2sjJW4dYT69odeE5A)**
 
 **Contacts**
 >-[Coordinator](mailto:mark@onthegoleisure.com)\
