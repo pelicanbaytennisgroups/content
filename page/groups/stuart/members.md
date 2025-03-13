@@ -19,6 +19,6 @@ For **Stuart MWF members ONLY**
 >-[Request a sub -- empty place holder](mailto:mark@onthegoleisure.com)
 
 ### **Current Month Schedule and Roster**
-{{< embed-pdf url="/page/pdfs/matchpoint/march-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/stuar/april-2025-stuart-pairings.pdf" renderPageNum="1" >}}
 ### **Prior Month Schedule**
-{{< embed-pdf url="/page/pdfs/matchpoint/february-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/stuart/march-2025-stuart-pairings.pdf" renderPageNum="1" >}}
