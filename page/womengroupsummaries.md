@@ -6,7 +6,7 @@ publishDate: "2025-03-15"
 
 ### Under Contruction, Coming Soon
 
-### Additional team to be listed here
+### Additional group Name
 
 #### **Women, x.x,**
 
