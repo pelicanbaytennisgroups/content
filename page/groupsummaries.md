@@ -34,12 +34,12 @@ The Players group offers fun and competitive matches. New members play at about 
 
 #### **Men, x.x,**
 
-Contact group coordinator to apply
+Contact group coordinator to apply\
 Place holder description of a tema
-* Days you play, e.g., Monday and Wednesdays during season
-* Time you play, e.g., Request 9:30 court
-* Size of your team, e.g., Approximately  25 to 35 active players
-* Skill requirements, e.g.
-* How are match pairing done: Random, Skill Based
+* Days you play, e.g., **Monday and Wednesdays during season**
+* Time you play, e.g., **Request 9:30 court**
+* Size of your team, e.g., **Approximately  25 to 35 active players**
+* Skill requirements, e.g. **4.0**, **3.5 and up**, **3.0 to 3.5**
+* How are match pairing done: **Random**, **Skill Based**
 * Group Objective: **tbd**
 
