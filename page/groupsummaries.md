@@ -30,7 +30,7 @@ The Players group offers fun and competitive matches. New members play at about 
 * Approximately  25 to 35 active players during season
 * Group Objective: **Competitive, Social**
 
-### Additional team to be listed here
+### "New Group Name"
 
 #### **Men, x.x,**
 
