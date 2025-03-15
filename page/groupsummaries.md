@@ -30,23 +30,16 @@ The Players group offers fun and competitive matches. New members play at about 
 * Approximately  25 to 35 active players during season
 * Group Objective: **Competitive, Social**
 
-### RAFFO SUNDAY
+### Additional team to be listed here
 
 #### **Men, x.x,**
 
 Contact group coordinator to apply
-
-* Sunday afternoon, **January, February, March only**
-* Approximately  25 to 35 active players
+Place holder description of a tema
+* Days you play, e.g., Monday and Wednesdays during season
+* Time you play, e.g., Request 9:30 court
+* Size of your team, e.g., Approximately  25 to 35 active players
+* Skill requirements, e.g.
+* How are match pairing done: Random, Skill Based
 * Group Objective: **tbd**
 
-### STUART MWF
-
-#### **Men, x.x**
-
-Contact group coordinator to apply
-
-* Monday, Wednesday, Friday in season
-* Request courts for  x:xx am and ??? courts
-* Approximately  25 to 35 active players during season
-* Group Objective: **tbd**
