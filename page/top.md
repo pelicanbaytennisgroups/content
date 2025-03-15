@@ -1,5 +1,5 @@
 ---
-title: "Men's Tennis Groups at Pelican Bay"
+title: "Tennis Groups at Pelican Bay"
 description: "Landing page"
 ---
 
