@@ -9,7 +9,7 @@ North Tennis\
 #### Overview
 
 [Overview of Men's Groups at Pelican Bay](/page/groupsummaries/)\
-[Overview of Women's Groups at Pelican Bay](page/womengroupsummarie/)
+[Overview of Women's Groups at Pelican Bay](page/womengroupsummaries/)
 
 There are many social groups organized for weekly play.
 Groups may schedule matches for the **season** or **year-round**.
