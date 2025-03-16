@@ -26,7 +26,7 @@ Logo here\
 
 ## Sign up to play, monthly match schedules
 
-1. The Players Group has a webpage for signing up and to distribution the schedule of matches, The Players Members.
+1. The Players Group has a private webpage for monthly signing up and for distribution of the schedule of matches.
 2. When you are added to the roster, the coordinator will send you the Member website URL.  Please bookmark this site. You will go to this site frequently to signup for dates, get the schedule of matches, and to see group announcements.  This URL should not be shared with non-Members.
 3. The current month and the prior month's schedules are always available on the Member page of the group website.
 
