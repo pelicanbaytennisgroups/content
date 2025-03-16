@@ -10,8 +10,8 @@ Logo here\
 ## How to join THE PLAYERS
 
 * Prospective players sub-in to matches the first month to verify fit and skill level.
-* Recommendation of 2 members is required.
-* The Players is actively seeking new players, 3.5 above.
+* Recommendation of 2 members is required who verify skill level
+* The Players is **ACTIVELY** seeking new players, 3.5 above.
 
 ## [Email the group co-ordinator](mailto:turnerdb1@gmail.com)
 
