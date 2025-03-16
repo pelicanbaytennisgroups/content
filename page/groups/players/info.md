@@ -5,7 +5,6 @@ publishDate: "2025-03-02"
 ---
 
 Logo here\
-![Casper Rudd practice at Indian Wells 2025](/page/_images/casperruudindianwellsbillcaufield_crop.png)
 
 ## How to join THE PLAYERS
 
