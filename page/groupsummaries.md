@@ -11,7 +11,8 @@ publishDate: "2025-03-10"
 * Sub in first month to verify skill level or recommendation of 2 members
 * Plays **Year-Round**
 * Schedules matches Monday through Saturday
-* Players of similar skill level are paired together for matches.  The large roster provides fun and competitive play at all skill levels
+* Players of similar skill level are paired together for matches.\
+* The large roster provides fun and competitive play at all skill levels
 * Request courts for NORTH/SOUTH/ANY at 8:00 am
 * Approximately  50 to 60 active players during season, 20 to 25 during the summer months
 * Due to team size it is easy to get subs when needed
