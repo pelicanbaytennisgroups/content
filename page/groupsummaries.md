@@ -24,9 +24,9 @@ publishDate: "2025-03-10"
 The Players group offers fun and competitive matches. New members play at about a 3.5 level and are mobile on the court. Our members have fun!
 
 * Prospective players sub-in to matches the first month to verify fit and skill level
-* Tuesday, Thursday, Saturday, **December to May**
+* Monday, Tuesday, Thursday, and Saturday, **December to May**
 * Players of similar skill are paired together for matches when ever possible
-* Request courts for ANY at 9:30 am
+* Request courts for North or South at 9:30 am
 * Approximately  25 to 35 active players during season
 * Group Objective: **Competitive, Social**
 
