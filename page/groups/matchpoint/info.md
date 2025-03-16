@@ -5,7 +5,8 @@ publishDate: "2025-03-10"
 ---
 ## How to Join MATCHPOINT
 
-Describe how you join matchpoint
+MatchPoint is not accepting new players at this time\
+You may contact to Mike Bowman, the coordinator who has a wait list
 
 ## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)
 
