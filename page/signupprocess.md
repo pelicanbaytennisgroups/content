@@ -29,5 +29,5 @@ The signup process
 - Bookmark the website for frequent access.
 - Instructions for filling out the form are below.
 
-![Instruction for Signup Form](/_images/form-instructions.png/)
+![Instruction for Signup Form](/_images/form-instructions.png)
   
