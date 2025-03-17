@@ -16,8 +16,9 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
 * Players of similar skill are paired together for matches when ever possible
 * Request courts for North or South at 9:30 am
 * Approximately  25 to 35 active players during season
-* Group Objective: **Competitive, Social**
-  [Signup Process](/page/groups/signupprocess)
+* Group Objective: **Competitive, Social**\
+  [Signup to play](/page/groups/signupprocess)\
+  [Apply to Join]()
 
 ### [MATCHPOINT]()
 
@@ -32,8 +33,9 @@ MatchPoint is not currently accepting new members\
 * Request courts for NORTH/SOUTH/ANY at 8:00 am
 * Approximately  50 to 60 active players during season, 20 to 25 during the summer months
 * Due to team size it is easy to get subs when needed
-* Group Objective: **Competitive, Social* 
-[Signup Process](/page/groups/signupprocess)
+* Group Objective: **Competitive, Social*\
+[Signup to play](/page/groups/signupprocess)\
+[Apply to Join]()
 
 ### "Your Group Name Here"
 
