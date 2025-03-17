@@ -7,6 +7,7 @@
 | https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
 | https://pelicanbaytennisgroups.com/page/_template | [page/_template.md](/page/_template.md) | example (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
+| https://pelicanbaytennisgroups.com/page/signupprocess | [page/signupprocess.md](/page/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
@@ -53,6 +54,8 @@ graph TD
     page_groups_stuart -->|"members"| page_groups_stuart_members
     page_groupsummaries["/page/groupsummaries"]
     page -->|"groupsummaries"| page_groupsummaries
+    page_signupprocess["/page/signupprocess"]
+    page -->|"signupprocess"| page_signupprocess
     page_womengroupsummaries["/page/womengroupsummaries"]
     page -->|"womengroupsummaries"| page_womengroupsummaries
 ```
