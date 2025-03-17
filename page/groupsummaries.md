@@ -20,7 +20,7 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
   
   [Signup Process](/page/groups/signupprocess)
 
-### [MATCHPOINT](/page/groups/matchpoint/info)
+### [MATCHPOINT]()
 
 #### **Men, 3.5 and up**
 
