@@ -28,6 +28,6 @@ The signup process
 - Your group will provide access to the Members Only page when you are placed on the group roster.
 - Bookmark the website for frequent access.
 - Instructions for filling out the form are below.
-
+- The form below is an EXAMPLE.
 ![Instruction for Signup Form](/page/_images/form-instructions.png)
   
