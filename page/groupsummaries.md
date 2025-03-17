@@ -18,7 +18,7 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
 * Approximately  25 to 35 active players during season
 * Group Objective: **Competitive, Social**\
   [Signup to play](/page/groups/signupprocess)\
-  [Apply to Join]()
+  [Apply to Join](/page/groups/players/info)
 
 ### [MATCHPOINT]()
 
