@@ -17,7 +17,7 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
 * Request courts for North or South at 9:30 am
 * Approximately  25 to 35 active players during season
 * Group Objective: **Competitive, Social**
-  [Signup Process](/page/_images/signupprocess)
+  [Signup Process](/page/_images/signupprocess.md)
 
 ### [MATCHPOINT](/page/groups/matchpoint/info)
 
