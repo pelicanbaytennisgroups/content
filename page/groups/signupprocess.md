@@ -13,9 +13,9 @@ Teams at Pelican Bay use two different systems for signing up for play dates
 - Chelsea is support by the Tennis Desk and the Pelican Bay Foundation
 - Chelsea Groups random match pairings.
 
-### 2. Group Match Pairing System (GMPS) 
-- GMPS is supported by the tennis groups and not by the Pelican Bay Foundation
-- GMPS provides skill based match pairings
+### 2. Group Match Form (GMF) 
+- GMF is supported by the tennis groups and not by the Pelican Bay Foundation
+- GMF provides skill based match pairings
 - There is no login, your email address uniquely identifies you.
 
 The "Group" Members website provides access to:
