@@ -35,12 +35,12 @@ MatchPoint is not currently accepting new members\
 * Group Objective: **Competitive, Social*\
 * MatchPoint Group Info page is under construction
 
-### "Your Group Name Here"
+### ["Your Group Name Here"](/page/groups/newgroup/newgroupinfo)
 
 #### **Men, x.x,**
 
 Contact group coordinator to apply\
-Place holder description of a tema
+Below is a summary of the groups -- the link above is to a complete group FAQ
 * Days you play, e.g., **Monday and Wednesdays during season**
 * Time you play, e.g., **Request 9:30 court**
 * Size of your team, e.g., **Approximately  25 to 35 active players**
