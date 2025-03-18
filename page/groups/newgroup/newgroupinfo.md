@@ -15,13 +15,10 @@ publishDate: "2025-03-18"
 
 >your name with a email link
 
-## When do we play -- 
-
-- Sundays in Janaury to May
-
-## Where and When do we play -- 
+## Where and When do we play
 
 - specify preferred time and courts
+- season and days of play
 
 ## Sign up to play, monthly match schedules
 
