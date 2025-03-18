@@ -14,7 +14,8 @@ For **MatchPoint members ONLY**
 **[April 2025 Signup Form](/page/groups/matchpoint/signup)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
 
 #### Contacts &nbsp;(click to email)
->-[Coordinator, Mike Bowman](mailto:m.bowman@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;[Technical Support, Mark Shirk](mailto:shirkmark@gmail.com)
+>[Coordinator, Mike Bowman](mailto:m.bowman@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;\
+>[Technical Support, Mark Shirk](mailto:shirkmark@gmail.com)
 
 #### [Request a sub](mailto:matchpoint-tennis@googlegroups.com)
 
