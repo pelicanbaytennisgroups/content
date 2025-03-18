@@ -11,7 +11,7 @@ For **MatchPoint members ONLY**
 >**- April signup ends March 24**\
 >**- May signup starts March 25 and ends April 24**
 
-**[April 2025 Signup Form](/page/groups/matchpoint/signup)**
+**[April 2025 Signup Form](/page/groups/matchpoint/signup)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
 
 **Contacts**
 >-[Coordinator](mailto:m.bowman@yahoo.com)\
