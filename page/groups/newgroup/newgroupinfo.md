@@ -1,26 +1,27 @@
 ---
-title: "The Players Group FAQs"
-description: "Players FAQs"
+title: "NewGroup Tennis FAQs"
+description: "NewGroupTemplate for FAQs"
 publishDate: "2025-03-02"
 ---
 
-Logo here\
+Logo here and anything else you want to include in the FAQ
 
 ## How to join NewGroup
 
-* Prospective players sub-in to matches the first month to verify fit and skill level.
-* Recommendation of 2 members is required who verify skill level
-* The Players is **ACTIVELY** seeking new players, 3.5 above.
+* describe the process to join the group
+
 
 ## Email the group coordinators
-To apply or get more information on NewGroup group
+
 >your name with a email link
 
 ## When do we play -- 
 
-1. Sundays in Janaury to May
-2. Specify court preferance as **North/South/Any** or**South/North/Any**\
-   Preferred **9:30 AM**,  Earliest **8:00 AM**, Latest **11:00 AM**
+- Sundays in Janaury to May
+
+## Where and When do we play -- 
+
+- specify preferred time and courts
 
 ## Sign up to play, monthly match schedules
 
@@ -30,11 +31,11 @@ To apply or get more information on NewGroup group
 
 ## Subs
 
-1. describe your groups process for finding subs
+- describe your groups process for finding subs
 
 ## Captain's responsibilities
 
-1. describe the Captain's responsibilities
+- describe the Captain's responsibilities, if any
 
 ## Chelsea court reservations
 
