@@ -3,7 +3,7 @@ title: "St. Lucia Bridge Schedule"
 description: "Landing page"
 ---
 
-## **Current Month Schedule and Roster**
+## **Schedule for next two dates**
 {{< embed-pdf url="/page/groups/bridge/mar-18a-update.pdf" renderPageNum="1" >}}
 
 ## **Sign up NOW to play in April**
