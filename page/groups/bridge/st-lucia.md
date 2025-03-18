@@ -3,9 +3,9 @@ title: "St. Lucia Bridge Schedule"
 description: "Landing page"
 ---
 
-
-Do not share this page with anyone\
 For **St. Lucia Bridge Schedule and Signup**
+Wed, Mar 19
+
 
 #### **Sign up NOW to play in April**
 >**- April signup ends March 29**\
