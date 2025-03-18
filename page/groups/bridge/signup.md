@@ -1,5 +1,5 @@
 ---
 type: redirect
-description: "Signup form for MatchPoint members"
-target: https://forms.gle/Bd16j4b7V1rA13xK8
+description: "Signup form for St Lucia Bridge members"
+target: https://forms.gle/ucSPo3T4QL2gcFwa7
 ---
