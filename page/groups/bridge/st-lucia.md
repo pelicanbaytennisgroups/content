@@ -4,7 +4,7 @@ description: "Landing page"
 ---
 
 ## **Current Month Schedule and Roster**
-{{< embed-pdf url="/page/groups/bridge/mar-18-update.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/groups/bridge/mar-18a-update.pdf" renderPageNum="1" >}}
 
 ## **Sign up NOW to play in April**
 >**- April signup ends March 28**\
