@@ -3,13 +3,10 @@ title: "St. Lucia Bridge Schedule"
 description: "Landing page"
 ---
 
-## **St. Lucia Bridge Schedule and Signup**
-Wed, Mar 19
-
-### **Current Month Schedule and Roster**
+## **Current Month Schedule and Roster**
 {{< embed-pdf url="/page/groups/bridge/mar-18-update.pdf" renderPageNum="1" >}}
 
-#### **Sign up NOW to play in April**
+## **Sign up NOW to play in April**
 >**- April signup ends March 28**\
 >**- I will publish an April schedule on March 29**
 
