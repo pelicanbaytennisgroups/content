@@ -18,7 +18,7 @@ Teams at Pelican Bay use two different systems for signing up for play dates
 - A sign up FORM for selecting play dates each month, as follows,\
   e.g., May signup is from March 25th to April 24th, the monthly match schedule is published on the 25th of the month for the next month
 - Pairing reports for the current and prior months are alway available on the **"Group" Member Page**
-- GPS provides skill based and random pairing options for teams to manage competition
+- GMF provides skill based and random pairing options for teams to manage competition
 
 #### Your Group coodinator may also send the GMF by email
   
