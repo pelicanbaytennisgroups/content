@@ -14,6 +14,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/signup | [page/groups/matchpoint/signup.md](/page/groups/matchpoint/signup.md) | Signup form for MatchPoint members |
+| https://pelicanbaytennisgroups.com/page/groups/newgroup/newgroupinfo | [page/groups/newgroup/newgroupinfo.md](/page/groups/newgroup/newgroupinfo.md) | The Players Group FAQs (Players FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/players/info | [page/groups/players/info.md](/page/groups/players/info.md) | The Players Group FAQs (Players FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/players/members | [page/groups/players/members.md](/page/groups/players/members.md) | Players Members Only (The Players Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/players/signup | [page/groups/players/signup.md](/page/groups/players/signup.md) | Signup form for Players members |
@@ -54,6 +55,8 @@ graph TD
     page_groups_matchpoint -->|"members"| page_groups_matchpoint_members
     page_groups_matchpoint_signup["/page/groups/matchpoint/signup"]
     page_groups_matchpoint -->|"signup"| page_groups_matchpoint_signup
+    page_groups_newgroup_newgroupinfo["/page/groups/newgroup/newgroupinfo"]
+    page_groups_newgroup -->|"newgroupinfo"| page_groups_newgroup_newgroupinfo
     page_groups_players_info["/page/groups/players/info"]
     page_groups_players -->|"info"| page_groups_players_info
     page_groups_players_members["/page/groups/players/members"]
