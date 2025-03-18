@@ -12,9 +12,10 @@ Logo here\
 * Recommendation of 2 members is required who verify skill level
 * The Players is **ACTIVELY** seeking new players, 3.5 above.
 
-## [Email the group co-ordinator](mailto:turnerdb1@gmail.com)
+## Email the group coordinators
+To apply or get more information on The Players group
+>-[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
 
--- Contact the group coordinator to apply or get more information on MatchPoint
 
 ## When do we play -- 9:30 AM at North or South courts
 
