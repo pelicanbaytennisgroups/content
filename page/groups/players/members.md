@@ -10,11 +10,12 @@ For **The Players members ONLY**
 >**- April signup ends March 24**\
 >**- May signup starts March 25 and ends April 24**
 
-### **[April 2025 Signup Form](/page/groups/players/signup)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
+**[April 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
-**Contacts**
->-[Coordinator](mailto:turnerdb1@gmail.com)\
->-[Request a sub]()
+**Contacts** (click to send email)
+>-[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
+
+[Request a sub]()
 
 ### **Current Month Schedule**
 
