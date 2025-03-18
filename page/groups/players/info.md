@@ -14,7 +14,7 @@ Logo here\
 
 ## Email the group coordinators
 To apply or get more information on The Players group
->-[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
+>[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
 
 
 ## When do we play -- 9:30 AM at North or South courts
