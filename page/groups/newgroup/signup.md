@@ -1,5 +1,5 @@
 ---
 type: redirect
 description: "Signup form for NewGroup members"
-target: https://forms.gle/Bd16j4b7V1rA13xK8
+target: https://forms.gle/A8kkinZbzEnnk5bC9
 ---
