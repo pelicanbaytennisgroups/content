@@ -1,5 +1,5 @@
 ---
-title: "NewGrooup Members Only"
+title: "NewGroup Members Only"
 description: "template for a NewGroup"
 publishDate: "2025-03-018"
 ---
@@ -10,7 +10,7 @@ For **NewGroup Members ONLY**
 >**- April signup ends March 24**\
 >**- May signup starts March 25 and ends April 24**
 
-**[April 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
+**[April 2025 Signup Form](/page/groups/newgroup/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
 **Contacts** (click to send email)
 >-[coordinator name]()
@@ -20,7 +20,3 @@ For **NewGroup Members ONLY**
 ### **Current Month Schedule** (example only)
 
 {{< embed-pdf url="/page/pdfs/players/march-2025-players-pairings.pdf" renderPageNum="1" >}}
-
-### **Prior Month Schedule** (example only)
-
-{{< embed-pdf url="/page/pdfs/players/february-2025-players-pairings.pdf" renderPageNum="1" >}}
