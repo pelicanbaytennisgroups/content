@@ -36,6 +36,8 @@ graph TD
     page_groups -->|"bridge"| page_groups_bridge
     page_groups_matchpoint["/page/groups/matchpoint"]
     page_groups -->|"matchpoint"| page_groups_matchpoint
+    page_groups_newgroup["/page/groups/newgroup"]
+    page_groups -->|"newgroup"| page_groups_newgroup
     page_groups_players["/page/groups/players"]
     page_groups -->|"players"| page_groups_players
     page_groups_stuart["/page/groups/stuart"]
