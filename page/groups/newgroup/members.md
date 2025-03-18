@@ -10,7 +10,7 @@ For **New Group members ONLY**
 >**- April signup ends March 24**\
 >**- May signup starts March 25 and ends April 24**
 
-**[April 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
+**[April 2025 Signup Form](/page/groups/newgroup/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
 **Contacts** (click to send email)
 List contact info for key people in the group
