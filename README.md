@@ -9,6 +9,7 @@
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
+| https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) |  |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/signup | [page/groups/matchpoint/signup.md](/page/groups/matchpoint/signup.md) | Signup form for MatchPoint members |
@@ -30,6 +31,8 @@ graph TD
     page -->|"top"| page_top
     page_groups["/page/groups"]
     Root -->|"groups"| page_groups
+    page_groups_bridge["/page/groups/bridge"]
+    page_groups -->|"bridge"| page_groups_bridge
     page_groups_matchpoint["/page/groups/matchpoint"]
     page_groups -->|"matchpoint"| page_groups_matchpoint
     page_groups_players["/page/groups/players"]
@@ -38,6 +41,8 @@ graph TD
     page_groups -->|"stuart"| page_groups_stuart
     page__template["/page/_template"]
     page -->|"_template"| page__template
+    page_groups_bridge_st-lucia["/page/groups/bridge/st-lucia"]
+    page_groups_bridge -->|"st-lucia"| page_groups_bridge_st-lucia
     page_groups_matchpoint_info["/page/groups/matchpoint/info"]
     page_groups_matchpoint -->|"info"| page_groups_matchpoint_info
     page_groups_matchpoint_members["/page/groups/matchpoint/members"]
