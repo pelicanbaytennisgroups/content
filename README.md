@@ -9,6 +9,7 @@
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
+| https://pelicanbaytennisgroups.com/page/groups/bridge/signup | [page/groups/bridge/signup.md](/page/groups/bridge/signup.md) |  |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) | St. Lucia Bridge Schedule (Landing page) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
@@ -41,6 +42,8 @@ graph TD
     page_groups -->|"stuart"| page_groups_stuart
     page__template["/page/_template"]
     page -->|"_template"| page__template
+    page_groups_bridge_signup["/page/groups/bridge/signup"]
+    page_groups_bridge -->|"signup"| page_groups_bridge_signup
     page_groups_bridge_st-lucia["/page/groups/bridge/st-lucia"]
     page_groups_bridge -->|"st-lucia"| page_groups_bridge_st-lucia
     page_groups_matchpoint_info["/page/groups/matchpoint/info"]
