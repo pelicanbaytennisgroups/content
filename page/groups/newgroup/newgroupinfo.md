@@ -4,7 +4,7 @@ description: "NewGroupTemplate for FAQs"
 publishDate: "2025-03-02"
 ---
 
-Logo here and anything else you want to include in the FAQ
+ **Anything**  you want to include in the FAQ, template below
 
 ## How to join NewGroup
 
