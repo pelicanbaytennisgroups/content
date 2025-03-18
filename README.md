@@ -14,7 +14,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/signup | [page/groups/matchpoint/signup.md](/page/groups/matchpoint/signup.md) | Signup form for MatchPoint members |
-| https://pelicanbaytennisgroups.com/page/groups/newgroup/members | [page/groups/newgroup/members.md](/page/groups/newgroup/members.md) |  |
+| https://pelicanbaytennisgroups.com/page/groups/newgroup/members | [page/groups/newgroup/members.md](/page/groups/newgroup/members.md) | NewGroup Members Only (NewGroup Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/newgroup/newgroupinfo | [page/groups/newgroup/newgroupinfo.md](/page/groups/newgroup/newgroupinfo.md) | NewGroup Tennis FAQs (NewGroupTemplate for FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/newgroup/signup | [page/groups/newgroup/signup.md](/page/groups/newgroup/signup.md) | Signup form for NewGroup members |
 | https://pelicanbaytennisgroups.com/page/groups/players/info | [page/groups/players/info.md](/page/groups/players/info.md) | The Players Group FAQs (Players FAQs) |
