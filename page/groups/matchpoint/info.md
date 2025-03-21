@@ -12,12 +12,12 @@ You may contact to Mike Bowman, the coordinator who has a wait list
 
 Contact the group coordinator to apply or get more information on MatchPoint
 
-## When do we play -- 8:00 AM at North courts
+## When do we play -- 8:00 AM or 9:30 AM at North courts
 
 1. Monday to Saturday, year-round
 2. Captains create court REQUESTs through Chelsea
 3. Specify court preferance as **North/South/Any**,
-   Time preference as Requested: **8:00 AM**,  Earliest **8:00 AM**, Latest **11:00**
+   Time preference as Requested: **8:00 AM or 9:30 AM**,  Earliest **8:00 AM**, Latest **11:00**
 4. During high demand periods, Chelsea schedules courts on a best available basis
 5. If no courts are available, you need to be BOOK any available court to play.
 
