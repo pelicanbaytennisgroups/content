@@ -29,7 +29,7 @@ MatchPoint is not currently accepting new members\
 * Schedules matches Monday through Saturday
 * Players of similar skill level are paired together for matches.\
 * The large roster provides fun and competitive play at all skill levels
-* Request courts for NORTH/SOUTH/ANY at 8:00 am
+* Request courts for NORTH at 8:00 am or 9:30 am
 * Approximately  50 to 60 active players during season, 20 to 25 during the summer months
 * Due to team size it is easy to get subs when needed
 * Group Objective: **Competitive, Social*\
