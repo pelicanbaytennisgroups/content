@@ -9,5 +9,5 @@ description: "Landing page"
 
 ## **[April 2025 Signup Form](/page/groups/bridge/signup)**
 
-## **Schedule for next two dates**
+## **Schedule for next four dates**
 {{< embed-pdf url="/page/groups/bridge/mar-18a-update.pdf" renderPageNum="1" >}}
