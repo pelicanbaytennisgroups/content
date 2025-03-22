@@ -13,6 +13,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) | St. Lucia Bridge Schedule (Landing page) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
+| https://pelicanbaytennisgroups.com/page/groups/matchpoint/scheduleonly | [page/groups/matchpoint/scheduleonly.md](/page/groups/matchpoint/scheduleonly.md) |  |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/signup | [page/groups/matchpoint/signup.md](/page/groups/matchpoint/signup.md) | Signup form for MatchPoint members |
 | https://pelicanbaytennisgroups.com/page/groups/newgroup/members | [page/groups/newgroup/members.md](/page/groups/newgroup/members.md) | NewGroup Members Only (NewGroup Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/newgroup/newgroupinfo | [page/groups/newgroup/newgroupinfo.md](/page/groups/newgroup/newgroupinfo.md) | NewGroup Tennis FAQs (NewGroupTemplate for FAQs) |
@@ -55,6 +56,8 @@ graph TD
     page_groups_matchpoint -->|"info"| page_groups_matchpoint_info
     page_groups_matchpoint_members["/page/groups/matchpoint/members"]
     page_groups_matchpoint -->|"members"| page_groups_matchpoint_members
+    page_groups_matchpoint_scheduleonly["/page/groups/matchpoint/scheduleonly"]
+    page_groups_matchpoint -->|"scheduleonly"| page_groups_matchpoint_scheduleonly
     page_groups_matchpoint_signup["/page/groups/matchpoint/signup"]
     page_groups_matchpoint -->|"signup"| page_groups_matchpoint_signup
     page_groups_newgroup_members["/page/groups/newgroup/members"]
