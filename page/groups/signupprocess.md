@@ -31,7 +31,7 @@ Teams at Pelican Bay use two different systems for signing up for play dates
   
 ### 2. Chelsea Groups
 
-- Chelsea Groups is provide by the Pelican Bay Foundation as part of the Chelsea court reservation application
+- Chelsea Groups is provided by the Pelican Bay Foundation as part of the Chelsea court reservation application
 - Chelsea Groups is accessed through the Pelican Bay website and tennis reservations
 - Chelsea is supported by the Tennis Desk and the Pelican Bay Foundation
 - Chelsea Groups creates random match pairings only.
