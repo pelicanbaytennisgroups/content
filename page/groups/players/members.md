@@ -13,7 +13,7 @@ For **The Players members ONLY**
 **[April 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
 **Contacts** (click to send email)
->-[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
+>[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
 
 [Request a sub]()
 
