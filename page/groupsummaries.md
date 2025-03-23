@@ -35,6 +35,19 @@ MatchPoint is not currently accepting new members\
 * Group Objective: **Competitive, Social**
 * MatchPoint Group Info page is under construction
 
+### [Raffo Sunday Group](/page/groups/raffo/raffoinfo)
+
+#### **Men, x.x,**
+
+Contact group coordinator to apply\
+#### Overview
+* Days you play, e.g., **Sunday during season**
+* Time you play, e.g., **Sunday afternoon at xxx Courts**
+* Size of your team, e.g., **Approximately  25 to 35 active players**
+* Qualified players are **3.5+ and up**
+* How are match pairing done: **Random**
+
+
 ### ["Your Group Name Here"](/page/groups/newgroup/newgroupinfo)
 
 #### **Men, x.x,**
@@ -47,4 +60,3 @@ Below is a summary of the groups -- the link above is to a complete group FAQ
 * Skill requirements, e.g. **4.0**, **3.5 and up**, **3.0 to 3.5**
 * How are match pairing done: **Random**, **Skill Based**
 * Group Objective: **tbd**
-
