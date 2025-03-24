@@ -35,7 +35,7 @@ MatchPoint is not currently accepting new members\
 * Group Objective: **Competitive, Social**
 * MatchPoint Group Info page is under construction
 
-### [RAFFO Sunday](/page/groups/raffo/raffoinfo)
+### [RAFFO Sunday](/page/groups/raffo/info)
 
 #### **Men, x.x,**
 
