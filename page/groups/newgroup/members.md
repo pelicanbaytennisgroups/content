@@ -7,8 +7,8 @@ publishDate: "2025-03-18"
 Do not share this page with anyone\
 For **New Group members ONLY**
 #### **Sign up NOW to play in April**
->**- April signup ends March 24**\
->**- May signup starts March 25 and ends April 24**
+>**- April signup ends March 23**\
+>**- May signup starts March 24 and ends April 23**
 
 **[April 2025 Signup Form](/page/groups/newgroup/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
