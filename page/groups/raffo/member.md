@@ -13,6 +13,6 @@ For **Raffo Sunday Members ONLY**
 
 **Contacts** (click to send email)
 List contact info for key people in the group
-### Current Month Schedule  (EXAMPLE)
+### April Month Schedule
 
 {{< embed-pdf url="/page/pdfs/raffo/april-2025-raffo-pairings.pdf" renderPageNum="1" >}}
