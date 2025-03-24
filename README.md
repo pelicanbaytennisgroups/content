@@ -9,6 +9,7 @@
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
+| https://pelicanbaytennisgroups.com/page/pdfs/raffo | [page/pdfs/raffo.md](/page/pdfs/raffo.md) |  |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/signup | [page/groups/bridge/signup.md](/page/groups/bridge/signup.md) | Signup form for St Lucia Bridge members |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) | St. Lucia Bridge Schedule (Landing page) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
@@ -89,6 +90,8 @@ graph TD
     page_groups_stuart -->|"members"| page_groups_stuart_members
     page_groupsummaries["/page/groupsummaries"]
     page -->|"groupsummaries"| page_groupsummaries
+    page_pdfs_raffo["/page/pdfs/raffo"]
+    page_pdfs -->|"raffo"| page_pdfs_raffo
     page_womengroupsummaries["/page/womengroupsummaries"]
     page -->|"womengroupsummaries"| page_womengroupsummaries
 ```
