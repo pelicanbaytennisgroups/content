@@ -8,9 +8,9 @@ Do not share this page with anyone\
 For **Stuart MWF members ONLY**
 
 #### **Sign up NOW to play in April**
->**- April signup ends March 24**\
->**- May signup starts March 25**\
->**- May signup ends  April 24**
+>**- April signup ends March 23**\
+>**- May signup starts March 24**\
+>**- May signup ends  April 23**
 
 **[April 2025 Signup Form](https://forms.gle/bDUtsP8oJgU5J7TC6)**
 
