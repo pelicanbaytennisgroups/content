@@ -23,6 +23,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/players/signup | [page/groups/players/signup.md](/page/groups/players/signup.md) | Signup form for Players members |
 | https://pelicanbaytennisgroups.com/page/groups/raffo/member | [page/groups/raffo/member.md](/page/groups/raffo/member.md) | Raffo Sunda Members Only (Raffo Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/raffo/raffoinfo | [page/groups/raffo/raffoinfo.md](/page/groups/raffo/raffoinfo.md) | Raffo Sunday FAQs (Raffo FAQs) |
+| https://pelicanbaytennisgroups.com/page/groups/raffo/signup | [page/groups/raffo/signup.md](/page/groups/raffo/signup.md) | Signup form for NewGroup members |
 | https://pelicanbaytennisgroups.com/page/groups/stuart/members | [page/groups/stuart/members.md](/page/groups/stuart/members.md) | Stuart MWF Members Only (Current Month Pairings and Next Month Signup) |
 
 ## Sitemap
@@ -80,6 +81,8 @@ graph TD
     page_groups_raffo -->|"member"| page_groups_raffo_member
     page_groups_raffo_raffoinfo["/page/groups/raffo/raffoinfo"]
     page_groups_raffo -->|"raffoinfo"| page_groups_raffo_raffoinfo
+    page_groups_raffo_signup["/page/groups/raffo/signup"]
+    page_groups_raffo -->|"signup"| page_groups_raffo_signup
     page_groups_signupprocess["/page/groups/signupprocess"]
     page_groups -->|"signupprocess"| page_groups_signupprocess
     page_groups_stuart_members["/page/groups/stuart/members"]
