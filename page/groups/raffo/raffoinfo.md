@@ -3,24 +3,21 @@ title: "Raffo Sunday FAQs"
 description: "Raffo FAQs"
 publishDate: "2025-03-23"
 ---
-## How to Join RAFFO Sunday
+### How to Join RAFFO Sunday
 
-MatchPoint is not accepting new players at this time\
-You may contact to Mike Bowman, the coordinator who has a wait list
+Raffo Sunday group is **Actively** seeking qualified members\
+You may contact to John Raffo
 
-## [Email the group co-ordinator](mailto:m.bowman@yahoo.com)
+### [Email the group co-ordinator](mailto:4johnraffo@gmail.com)
 
 Contact the group coordinator to apply or get more information on MatchPoint
 
-## When do we play -- Sundary afternoons at North courts
+### When do we play -- Sundary afternoons at North courts
 
-## We match you with players for fun and competitive matches
+### We match you with players for fun and competitive matches
 1. Our team has similar skills and you will play with a variety of partneres.
 
-## How we play matches
-
-
-## Signing up for to play with your unique email address
+## Signing up with the a simple Form each month
 
 1. We publish a schedule of matches for one month at a time.  You sign up (electronic form) during the prior month.
 3. Your email on the group roster is your default, unique ID for signing up for dates with the form. There is no password needed to signup.
@@ -47,11 +44,3 @@ Contact the group coordinator to apply or get more information on MatchPoint
    Type the first few letters of the players last nanme and select from the list.  You do not need the Pelican Bay ID.
 6. **For each match, the Captain supplies new clay court balls.** If you are the Captain and need to sub out of a match, you still are responsible for supplying the match balls.
 
-## Google Group EMAIL list
-
-1. Your default roster email will be added to the MatchPoint Google Group: <matchpoint-tennis@googlegroups.com>
-2. Check your spam and mark @googlegroups as a safe sender. Create a contact in your addressb book. This ensures that your mail spam filter will not block group emails.
-3. The group email allows you to send emails to all members of the MatchPoint tennis group when you address and email to <matchpoint-tennis@googlegroups.com>.
-4. Reply directly to the sender when agreeing to sub to prevent flooding everyone with unnecessary emails.
-5. **The group email is exclusively for MatchPoint administrative use only.** The group email is to be used only by the group coordinator to send notifications to the entire group and for group members to find subs or fill openings in matches.
-If you feel the need to contact people, please use the Roster and send individual emails. If any other unrelated emails are sent, you may be subject to being removed from the group
