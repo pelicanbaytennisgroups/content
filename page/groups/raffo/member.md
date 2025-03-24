@@ -1,5 +1,5 @@
 ---
-title: "Raffo Sunda Members Only"
+title: "Raffo Sunday Members Only"
 description: "Raffo Members Page - Schedules and Signup"
 publishDate: "2025-03-23"
 ---
