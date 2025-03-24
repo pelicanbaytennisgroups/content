@@ -4,7 +4,7 @@ description: "Information on Groups"
 publishDate: "2025-03-10"
 ---
 
-### [THE PLAYERS](/page/groups/players/info)
+### [THE PLAYERS FAQ](/page/groups/players/info)
 
 #### **Men, 3.5 and up,**
 
@@ -19,7 +19,7 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
 * Group Objective: **Competitive, Social**\
   [Apply to Join](/page/groups/players/info)
 
-### [MATCHPOINT]()
+### [MATCHPOINT FAQ]()
 
 #### **Men, 3.5 and up**
 MatchPoint is not currently accepting new members\
@@ -48,7 +48,7 @@ Contact group coordinator to apply on the FAQ page
 * How are match pairing done: **Random**
 
 
-### ["Your Group Name Here"](/page/groups/newgroup/newgroupinfo)
+### ["Your Group Name Here FAQ"](/page/groups/newgroup/newgroupinfo)
 
 #### **Men, x.x,**
 
