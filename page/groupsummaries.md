@@ -35,11 +35,11 @@ MatchPoint is not currently accepting new members\
 * Group Objective: **Competitive, Social**
 * MatchPoint Group Info page is under construction
 
-### [RAFFO Sunday](/page/groups/raffo/info)
+### [RAFFO Sunday FAQ](/page/groups/raffo/info)
 
 #### **Men, x.x,**
 
-Contact group coordinator to apply\
+Contact group coordinator to apply on the FAQ page
 #### Overview
 * Days you play, e.g., **Sunday during season**
 * Time you play, e.g., **Sunday afternoon at xxx Courts**
