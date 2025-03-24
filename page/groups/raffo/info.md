@@ -3,21 +3,21 @@ title: "Raffo Sunday FAQs"
 description: "Raffo FAQs"
 publishDate: "2025-03-23"
 ---
-### How to Join RAFFO Sunday
+#### How to Join RAFFO Sunday
 
 Raffo Sunday group is **Actively** seeking qualified members\
-You may contact to John Raffo
 
-### [Email the group co-ordinator](mailto:4johnraffo@gmail.com)
 
-Contact the group coordinator to apply or get more information on MatchPoint
+#### [Email the group co-ordinator](mailto:4johnraffo@gmail.com)
+Email the coordinator, John Raffo
 
-### When do we play -- Sundary afternoons at North courts
+#### When do we play -- Sundary afternoons at North courts
 
-### We match you with players for fun and competitive matches
-1. Our team has similar skills and you will play with a variety of partneres.
+#### Skill requirements
+Our team has similar skills, 3.5 and up
+You will play with a variety of partneres
 
-## Signing up with the a simple Form each month
+#### Signing up with the a simple Form each month
 
 1. We publish a schedule of matches for one month at a time.  You sign up (electronic form) during the prior month.
 3. Your email on the group roster is your default, unique ID for signing up for dates with the form. There is no password needed to signup.
@@ -26,7 +26,7 @@ Contact the group coordinator to apply or get more information on MatchPoint
 6. If you use an email address, not on the roster, and it cannot be verified as belonging to you, YOUR REQUESTED DATES MAY BE IGNORED AND YOU WILL NOT BE SCHEDULED.
 7. When you fill out the signup form, if you do not receive an confirmation email within 60 seconds, you entered an invalid email (probably with a typo) and you should enter you dates again with the correct email address.
 
-## Publishing the Schedule of Matches
+#### Publishing the Schedule of Matches
 
 1. MatchPoints has a webpage for signing up and to distribution the schedule of matches
 2. When you are added to the roster, the coordinator will send you the Member website URL.  Please bookmark this site. You will go to this site frequently to signup for dates, get the schedule of matches, and to see group announcements.  This URL should not be shared with non-Members.
@@ -34,7 +34,7 @@ Contact the group coordinator to apply or get more information on MatchPoint
 4. The current month and the prior month's schedules are alway available on the Member page of the group website.
 5. For example, signup for the month of April typically ends about March 24 (dates vary slightly each month). The April schedule is published the next day, on March 25. This gives captains time to create the court requests for April 1 matches.
 
-## Entering court requests in Chelsea and Captains responsibilities
+#### Entering court requests in Chelsea and Captains responsibilities
 
 1. Court requests need to be entered in Chelsea 3 days before the match date, for example, if a match on April 6, the REQUEST needs to be entered no later than April.
 2. Chelsea issues court assignment 3 days prior to the match, on April 3. You are notified by email of court assignments.
