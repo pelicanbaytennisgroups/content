@@ -21,7 +21,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/players/info | [page/groups/players/info.md](/page/groups/players/info.md) | The Players Group FAQs (Players FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/players/members | [page/groups/players/members.md](/page/groups/players/members.md) | Players Members Only (The Players Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/players/signup | [page/groups/players/signup.md](/page/groups/players/signup.md) | Signup form for Players members |
-| https://pelicanbaytennisgroups.com/page/groups/raffo/member | [page/groups/raffo/member.md](/page/groups/raffo/member.md) |  |
+| https://pelicanbaytennisgroups.com/page/groups/raffo/member | [page/groups/raffo/member.md](/page/groups/raffo/member.md) | Raffo Sunda Members Only (Raffo Members Page - Schedules and Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/raffo/raffoinfo | [page/groups/raffo/raffoinfo.md](/page/groups/raffo/raffoinfo.md) | Raffo Sunday FAQs (Raffo FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/stuart/members | [page/groups/stuart/members.md](/page/groups/stuart/members.md) | Stuart MWF Members Only (Current Month Pairings and Next Month Signup) |
 
