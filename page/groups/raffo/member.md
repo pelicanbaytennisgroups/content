@@ -15,4 +15,4 @@ For **Raffo Sunday Members ONLY**
 List contact info for key people in the group
 ### Current Month Schedule  (EXAMPLE)
 
-{{< embed-pdf url="/page/pdfs/players/march-2025-players-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/raffo/april-2025-raffo-pairings.pdf" renderPageNum="1" >}}
