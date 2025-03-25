@@ -8,7 +8,7 @@ Do not share this page with anyone\
 For **The Players members ONLY**
 #### **Sign up NOW to play in April**
 >**- May signup ends April 23**\
->**- Next scheduled month is Decembver, 2025**
+>**- Next scheduled month is December, 2025**
 
 **[May 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
