@@ -1,5 +1,5 @@
 ---
 type: redirect
 description: "Signup form for Players members"
-target: https://forms.gle/LjnqcQuecU7qC6a58
+target: https://forms.gle/HhNeyBUKvedMguFt7
 ---
