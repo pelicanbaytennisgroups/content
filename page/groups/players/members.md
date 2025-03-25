@@ -19,8 +19,8 @@ For **The Players members ONLY**
 
 ### **Current Month Schedule**
 
-{{< embed-pdf url="/page/pdfs/players/march-2025-players-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/players/april-2025-players-pairings.pdf" renderPageNum="1" >}}
 
 ### **Prior Month Schedule**
 
-{{< embed-pdf url="/page/pdfs/players/february-2025-players-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/players/march-2025-players-pairings.pdf" renderPageNum="1" >}}
