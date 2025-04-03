@@ -7,7 +7,7 @@ publishDate: "2025-03-07"
 Do not share this page with anyone\
 For **MatchPoint members ONLY**
 
-#### **Sign up NOW to play in April**
+#### **Sign up NOW to play in May**
 >**- May signup ends May 23**\
 >**- June signup starts April 24 and ends May 23**
 
