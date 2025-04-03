@@ -20,6 +20,4 @@ For **MatchPoint members ONLY**
 #### [Request a sub](mailto:matchpoint-tennis@googlegroups.com)
 
 ### **Current Month Schedule and Roster**
-{{< embed-pdf url="/page/pdfs/matchpoint/march-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
-### **Prior Month Schedule**
-{{< embed-pdf url="/page/pdfs/matchpoint/february-2025-matchpoint-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/matchpoint/apr-2025-matchpoint-schedule.pdf" renderPageNum="1" >}}
