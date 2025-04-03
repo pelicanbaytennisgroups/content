@@ -8,10 +8,10 @@ Do not share this page with anyone\
 For **MatchPoint members ONLY**
 
 #### **Sign up NOW to play in April**
->**- April signup ends March 23**\
->**- May signup starts March 24 and ends April 23**
+>**- May signup ends May 23**\
+>**- June signup starts April 24 and ends May 23**
 
-**[April 2025 Signup Form](/page/groups/matchpoint/signup)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
+**[May 2025 Signup Form](/page/groups/matchpoint/signup)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
 
 #### Contacts &nbsp;(click to email)
 >[Coordinator, Mike Bowman](mailto:m.bowman@yahoo.com)&nbsp;&nbsp;&nbsp;&nbsp;\
