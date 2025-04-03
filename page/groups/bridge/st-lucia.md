@@ -10,5 +10,5 @@ description: "Landing page"
 ## **[April 2025 Signup Form](/page/groups/bridge/signup)**
 ### Schedule is not final until April 5,\
 Subs will be assigned randomly on April 5
-## **Schedule for next four dates**
+## **Preliminary Schedule for April**
 {{< embed-pdf url="/page/groups/bridge/apr-prelim-schedule.pdf" renderPageNum="1" >}}
