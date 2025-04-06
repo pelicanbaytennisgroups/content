@@ -6,7 +6,7 @@ publishDate: "2025-03-07"
 
 Do not share this page with anyone\
 For **The Players members ONLY**
-### **Sign up NOW to play in April**
+### **Sign up NOW to play in May**
 >**- May signup ends April 23**\
 >**- Next scheduled month is December, 2025**
 
