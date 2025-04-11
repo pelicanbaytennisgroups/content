@@ -15,4 +15,6 @@ description: "Landing page"
 
 
 ## **Final Schedule for April**
+**[Click here to download the PDF](/page/groups/bridge/apr-prelim-schedule.pdf)**
+
 {{< embed-pdf url="/page/groups/bridge/apr-prelim-schedule.pdf" renderPageNum="1" >}}
