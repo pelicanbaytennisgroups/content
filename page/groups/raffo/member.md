@@ -15,6 +15,6 @@ For **Raffo Sunday Members ONLY**
 List contact info for key people in the group
 ### April Month Schedule
 
-**[Click here to download the PDF](/page/pdfs/raffo/april-2025-raffo-pairings.pdf)**
+**<a href="/page/pdfs/raffo/april-2025-raffo-pairings.pdf" download>Click here to download the PDF</a>**
 
 {{< embed-pdf url="/page/pdfs/raffo/april-2025-raffo-pairings.pdf" renderPageNum="1" >}}
