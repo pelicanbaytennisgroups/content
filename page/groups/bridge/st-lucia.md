@@ -18,5 +18,4 @@ description: "Landing page"
 
 ![score](/page/groups/bridge/scoring.jpg)
 
-
 {{< embed-pdf url="/page/groups/bridge/apr-prelim-schedule.pdf" renderPageNum="1" >}}
