@@ -16,12 +16,7 @@ description: "Landing page"
 **<a href="/page/groups/bridge/Bridge_Tally_3_Table.pdf" download>3 Table Tally (Download)</a>**\
 **<a href="/page/groups/bridge/ScoreCard.pdf" download>ScoreCard (Download)</a>**\
 
-![score](/page/_images/tennis-courts.png)
+![score](/page/groups/bridge/scoring.jpg)
 
-**<a href="/page/groups/bridge/chicagoguide.pdf" download>How to Score (Download)</a>**\
-{{< embed-pdf url="/page/groups/bridge/chicagoguide.pdf" renderPageNum="1" >}}
-
-## **Final Schedule for April**
-**<a href="/page/groups/bridge/apr-prelim-schedule.pdf" download>Click here to download the PDF</a>**
 
 {{< embed-pdf url="/page/groups/bridge/apr-prelim-schedule.pdf" renderPageNum="1" >}}
