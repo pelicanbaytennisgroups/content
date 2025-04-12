@@ -14,7 +14,7 @@ description: "Landing page"
 ### **Forms we use frequently**
 **<a href="/page/groups/bridge/Bridge_Tally_2_Table.pdf" download>2 Table Tally (Download)</a>**\
 **<a href="/page/groups/bridge/Bridge_Tally_3_Table.pdf" download>3 Table Tally (Download)</a>**\
-**<a href="/page/groups/bridge/ScoreCard.pdf" download>ScoreCard (Download)</a>**\
+**<a href="/page/groups/bridge/ScoreCard.pdf" download>ScoreCard (Download)</a>**
 
 ![score](/page/groups/bridge/scoring.jpg)
 
