@@ -11,6 +11,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/signup | [page/groups/bridge/signup.md](/page/groups/bridge/signup.md) | Signup form for St Lucia Bridge members |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) | St. Lucia Bridge Schedule (Landing page) |
+| https://pelicanbaytennisgroups.com/page/groups/bridgemn/stpaul | [page/groups/bridgemn/stpaul.md](/page/groups/bridgemn/stpaul.md) |  |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/scheduleonly | [page/groups/matchpoint/scheduleonly.md](/page/groups/matchpoint/scheduleonly.md) | MatchPoint Members Schedule (Current Month Pairings) |
@@ -41,6 +42,8 @@ graph TD
     Root -->|"groups"| page_groups
     page_groups_bridge["/page/groups/bridge"]
     page_groups -->|"bridge"| page_groups_bridge
+    page_groups_bridgemn["/page/groups/bridgemn"]
+    page_groups -->|"bridgemn"| page_groups_bridgemn
     page_groups_matchpoint["/page/groups/matchpoint"]
     page_groups -->|"matchpoint"| page_groups_matchpoint
     page_groups_newgroup["/page/groups/newgroup"]
@@ -57,6 +60,8 @@ graph TD
     page_groups_bridge -->|"signup"| page_groups_bridge_signup
     page_groups_bridge_st-lucia["/page/groups/bridge/st-lucia"]
     page_groups_bridge -->|"st-lucia"| page_groups_bridge_st-lucia
+    page_groups_bridgemn_stpaul["/page/groups/bridgemn/stpaul"]
+    page_groups_bridgemn -->|"stpaul"| page_groups_bridgemn_stpaul
     page_groups_matchpoint_info["/page/groups/matchpoint/info"]
     page_groups_matchpoint -->|"info"| page_groups_matchpoint_info
     page_groups_matchpoint_members["/page/groups/matchpoint/members"]
