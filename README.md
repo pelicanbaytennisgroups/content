@@ -11,7 +11,7 @@
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/signup | [page/groups/bridge/signup.md](/page/groups/bridge/signup.md) | Signup form for St Lucia Bridge members |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/st-lucia | [page/groups/bridge/st-lucia.md](/page/groups/bridge/st-lucia.md) | St. Lucia Bridge Schedule (Landing page) |
-| https://pelicanbaytennisgroups.com/page/groups/bridgemn/stpaul | [page/groups/bridgemn/stpaul.md](/page/groups/bridgemn/stpaul.md) |  |
+| https://pelicanbaytennisgroups.com/page/groups/bridgemn/stpaul | [page/groups/bridgemn/stpaul.md](/page/groups/bridgemn/stpaul.md) | St. Paul Bridge Schedule (Landing page) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/info | [page/groups/matchpoint/info.md](/page/groups/matchpoint/info.md) | MatchPoint Group FAQs (MatchPoint FAQs) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/members | [page/groups/matchpoint/members.md](/page/groups/matchpoint/members.md) | MatchPoint Members Page (Current Month Pairings and Next Month Signup) |
 | https://pelicanbaytennisgroups.com/page/groups/matchpoint/scheduleonly | [page/groups/matchpoint/scheduleonly.md](/page/groups/matchpoint/scheduleonly.md) | MatchPoint Members Schedule (Current Month Pairings) |
