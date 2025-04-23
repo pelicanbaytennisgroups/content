@@ -22,10 +22,5 @@ For **The Players members ONLY**
 
 **<a href="/page/pdfs/players/april-2025-players-pairings.pdf" download>Click here to download the PDF</a>**
 
-{{< embed-pdf url="/page/pdfs/players/april-2025-players-pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/pdfs/players/may_pairings.pdf" renderPageNum="1" >}}
 
-### **Prior Month Schedule**
-
-**<a href="/page/pdfs/players/march-2025-players-pairings.pdf" download>Click here to download the PDF</a>**
-
-{{< embed-pdf url="/page/pdfs/players/march-2025-players-pairings.pdf" renderPageNum="1" >}}
