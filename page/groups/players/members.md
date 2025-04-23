@@ -6,7 +6,7 @@ publishDate: "2025-03-07"
 
  Do not share this page with anyone\
 For **The Players members ONLY**
-### **Sign up for November 2025 **
+### Sign up for November 2025
 >**- November 2025 signup starts in October**\
 >**- Next scheduled month is November 2025**
 >sign up to play between Oct 1 and Oct 23
