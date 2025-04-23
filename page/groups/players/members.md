@@ -11,7 +11,7 @@ For **The Players members ONLY**
 >**- Next scheduled month is November, 2025**
 >sign up to play between Oct 1 and Oct 23
 
-**[May 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
+**[Nov 2025 Signup Form](/page/groups/players/signup)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         [Instructions to fill out form](/page/groups/signupprocess)
 
 **Contacts** (click to send email)
 >[Dave Turner](mailto:turnerdb1@gmail.com)&nbsp;&nbsp; or &nbsp;&nbsp;[John Valla](mailto:johnrvalla@gmail.com)
