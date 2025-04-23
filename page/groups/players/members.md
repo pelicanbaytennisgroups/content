@@ -22,5 +22,5 @@ For **The Players members ONLY**
 
 **<a href="/page/pdfs/players/may_pairings.pdf" download>Click here to download the PDF</a>**
 
-{{< embed-pdf url="/page/pdfs/players/may_pairings.pdf" renderPageNum="1" >}}
+{{< embed-pdf url="/page/players/may_pairings.pdf" renderPageNum="1" >}}
 
