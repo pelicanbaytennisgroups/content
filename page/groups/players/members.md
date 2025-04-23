@@ -4,7 +4,7 @@ description: "The Players Members Page - Schedules and Signup"
 publishDate: "2025-03-07"
 ---
 
-Do not share this page with anyone\
+ Do not share this page with anyone\
 For **The Players members ONLY**
 ### **Sign up for November 2025 **
 >**- November 2025 signup starts in October**\
