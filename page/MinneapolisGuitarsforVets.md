@@ -8,19 +8,22 @@ publishDate: "2025-03-10"
 
 ## How Do I Register
 
-Fill out the Registration from and you will be contacted by the chpater coordinator to complete registration
-**[G4Vets Registration Form](https://forms.gle/g7qtgEa6bVt3LHtg7)
+Fill out the Registration from and you will be contacted by the chapter coordinator to complete registration\
+**[G4Vets Registration Form](https://forms.gle/g7qtgEa6bVt3LHtg7)**
 
 ## Who is Eligible
 
 Any Veteran with a DD214
 You do not need to have a disability rating to participate
 
+## G4Vets offers private lessons
 
-Below is a summary of the groups -- the link above is to a complete group FAQ
-* Days you play, e.g., **Monday and Wednesdays during season**
-* Time you play, e.g., **Request 9:30 court**
-* Size of your team, e.g., **Approximately  25 to 35 active players**
-* Skill requirements, e.g. **4.0**, **3.5 and up**, **3.0 to 3.5**
-* How are match pairing done: **Random**, **Skill Based**
-* Group Objective: **tbd**
+Private lesson are 1-on-1 with an instructor for 30 to 45 minutes
+We offer small group lessons for students who have already completed 10 lessons
+
+## Where are the lessons
+
+Lesson are at the
+  - Anoka Vet Center (Anoka),
+  - EveryThirdSaturday (54th St and 43rd Ave, South Minneapolis)
+  - Inver Grove Heights Community Center
