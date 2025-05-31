@@ -4,13 +4,13 @@ description: "landing page"
 publishDate: "2025-03-10"
 ---
 
-#Twin Cities Guitars for Vet FAQs Page
+# Twin Cities Guitars for Vet FAQs Page
 
-##How Do I Register
+## How Do I Register
 
 Fill out the Registration from and you will be contacted by the chpater coordinator to complete registration
 
-##Who is Eligible
+## Who is Eligible
 
 Any Veteran with a DD214
 You do not need to have a disability rating to participate
