@@ -1,5 +1,5 @@
 ---
-title: "Minneapolis Guitars for Vets Chapter"
+title: "Twin Cities Guitars for Vets Chapter"
 description: "landing page"
 publishDate: "2025-03-10"
 ---
