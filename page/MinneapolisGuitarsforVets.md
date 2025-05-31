@@ -9,14 +9,12 @@ publishDate: "2025-03-10"
 ## How Do I Register
 
 Fill out the Registration from and you will be contacted by the chpater coordinator to complete registration
-**[G4Vets Registration Form](/page/groups/matchpoint/signup)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Instructions to fill out form](/page/groups/signupprocess)
+**[G4Vets Registration Form](https://forms.gle/g7qtgEa6bVt3LHtg7)
 
 ## Who is Eligible
 
 Any Veteran with a DD214
 You do not need to have a disability rating to participate
-
-Contact group coordinator to apply\
 
 
 Below is a summary of the groups -- the link above is to a complete group FAQ
