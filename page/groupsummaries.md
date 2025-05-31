@@ -19,18 +19,6 @@ New members play at about a 3.5 level and are mobile on the court. Our members h
 * Group Objective: **Competitive, Social**\
   [Apply to Join](/page/groups/players/info)
 
-### [RAFFO Sunday FAQ](/page/groups/raffo/info)
-
-#### **Men, x.x,**
-
-Contact group coordinator to apply on the FAQ page
-#### Overview
-* Days you play, e.g., **Sunday during season**
-* Time you play, e.g., **Sunday afternoon at xxx Courts**
-* Size of your team, e.g., **Approximately  25 to 35 active players**
-* Qualified players are **3.5+ and up**
-* How are match pairing done: **Random**
-
 
 ### ["Your Group Name Here FAQ"](/page/groups/newgroup/newgroupinfo)
 
