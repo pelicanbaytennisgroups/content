@@ -5,6 +5,7 @@
 | External URL | Repository File | Title and/or Description |
 |-------------|-----------------|-------------|
 | https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
+| https://pelicanbaytennisgroups.com/page/MinneapolisGuitarsforVets | [page/MinneapolisGuitarsforVets.md](/page/MinneapolisGuitarsforVets.md) | Minneapolis Guitars for Vets Chapter (landing page) |
 | https://pelicanbaytennisgroups.com/page/_template | [page/_template.md](/page/_template.md) | example (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
@@ -54,6 +55,8 @@ graph TD
     page_groups -->|"raffo"| page_groups_raffo
     page_groups_stuart["/page/groups/stuart"]
     page_groups -->|"stuart"| page_groups_stuart
+    page_MinneapolisGuitarsforVets["/page/MinneapolisGuitarsforVets"]
+    page -->|"MinneapolisGuitarsforVets"| page_MinneapolisGuitarsforVets
     page__template["/page/_template"]
     page -->|"_template"| page__template
     page_groups_bridge_signup["/page/groups/bridge/signup"]
