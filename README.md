@@ -5,9 +5,9 @@
 | External URL | Repository File | Title and/or Description |
 |-------------|-----------------|-------------|
 | https://pelicanbaytennisgroups.com/ | [page/top.md](/page/top.md) | Tennis Groups at Pelican Bay (Landing page) |
-| https://pelicanbaytennisgroups.com/page/MinneapolisGuitarsforVets | [page/MinneapolisGuitarsforVets.md](/page/MinneapolisGuitarsforVets.md) | Minneapolis Guitars for Vets Chapter (landing page) |
 | https://pelicanbaytennisgroups.com/page/_template | [page/_template.md](/page/_template.md) | example (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groupsummaries | [page/groupsummaries.md](/page/groupsummaries.md) | Men's Tennis Groups (Information on Groups) |
+| https://pelicanbaytennisgroups.com/page/twincitiesguitarsforvets | [page/twincitiesguitarsforvets.md](/page/twincitiesguitarsforvets.md) | Twin Cities Guitars for Vets Chapter (landing page) |
 | https://pelicanbaytennisgroups.com/page/womengroupsummaries | [page/womengroupsummaries.md](/page/womengroupsummaries.md) | Women's Tennis Groups (Information on Groups) |
 | https://pelicanbaytennisgroups.com/page/groups/signupprocess | [page/groups/signupprocess.md](/page/groups/signupprocess.md) | Monthly Signup for Matches (Chelsea and GroupPairings Tool) |
 | https://pelicanbaytennisgroups.com/page/groups/bridge/signup | [page/groups/bridge/signup.md](/page/groups/bridge/signup.md) | Signup form for St Lucia Bridge members |
@@ -55,8 +55,6 @@ graph TD
     page_groups -->|"raffo"| page_groups_raffo
     page_groups_stuart["/page/groups/stuart"]
     page_groups -->|"stuart"| page_groups_stuart
-    page_MinneapolisGuitarsforVets["/page/MinneapolisGuitarsforVets"]
-    page -->|"MinneapolisGuitarsforVets"| page_MinneapolisGuitarsforVets
     page__template["/page/_template"]
     page -->|"_template"| page__template
     page_groups_bridge_signup["/page/groups/bridge/signup"]
@@ -97,6 +95,8 @@ graph TD
     page_groups_stuart -->|"members"| page_groups_stuart_members
     page_groupsummaries["/page/groupsummaries"]
     page -->|"groupsummaries"| page_groupsummaries
+    page_twincitiesguitarsforvets["/page/twincitiesguitarsforvets"]
+    page -->|"twincitiesguitarsforvets"| page_twincitiesguitarsforvets
     page_womengroupsummaries["/page/womengroupsummaries"]
     page -->|"womengroupsummaries"| page_womengroupsummaries
 ```
